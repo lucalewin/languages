@@ -1,0 +1,74 @@
+{% extends "layout/base.html" %}
+{% block content %}
+
+What do you want to do?
+
+<div x-data="{
+        index: 0,
+        revealed: false,
+        typing: false,
+
+        input: '',
+        correct: false,
+
+        words: [],
+        words2: [
+            {id: 2837, english:'to write', swedish: 'att skriva', group: '1'},
+            {id: 2983, english:'to eat', swedish: 'att äta', group: '1'}
+        ],
+
+        next(type) {
+            this.revealed = false;
+            this.index = (this.index + 1) % this.words.length;
+            console.log(type);
+        },
+
+        check() {
+            console.log(this.input);
+        }
+    }",
+    x-init="words = await (await fetch('data/output_fixed.json')).json()"
+>
+    {# settings #}
+    <div>
+        <h3 class="font-semibold text-xl">Settings</h3>
+        {# options: click to reveal, type until correct, type and reveal #}
+        <select name="my_option" x-model="typing" class="border border-gray-300 rounded rounded-xl p-2 h-10">
+            <option :value="false">Revealing</option>
+            <option :value="true">Typing</option>
+        </select>
+    </div>
+    <p x-text="typing"></p>
+
+    <div class="flex flex-col w-96 mx-auto p-4 border border-gray-300 rounded rounded-xl">
+        {# the english word #}
+        <div class="text-center">
+            <h2 class="text-xl font-bold" x-text="words[index].english"></h2>
+        </div>
+        <hr class="text-gray-600 my-4" />
+        {# the reveal area #}
+        <div class="h-10 text-center w-full">
+            <div x-show="!revealed">
+            <p x-text="typing"></p>
+                <button @click="revealed=!revealed" x-show="!typing" class="text-gray-600 cursor-pointer">Click to reveal</button>
+                <div x-show="typing">
+                <form @submit.prevent="check">
+                    <input type="text" x-model="input" class="border border-gray-300 rounded  p-2 h-10">
+                </form>
+                </div>
+            </div>
+            <div x-show="revealed">
+                <h2 class="text-xl font-bold" x-text="words[index].infinitiv"></h2>
+                <p class="text-gray-600">Group: <span x-text="words[index].group"></span></p>
+            </div>
+        </div>
+    </div>
+    {# button group #}
+    <div class="flex justify-center gap-6 mt-6">
+        <button @click="next('again')" class="py-2 px-6 bg-red-400 rounded">Again</button>
+        <button @click="next('good')" class="py-2 px-6 bg-yellow-400 rounded">Good</button>
+        <button @click="next('easy')" class="py-2 px-6 bg-green-400 rounded">Easy</button>
+    </div>
+</div>
+
+{% endblock content %}

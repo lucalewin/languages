@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='output.css') }}">
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <title>Document</title>
+</head>
+<body class="bg-gray-100">
+    {% include "components/navbar.html" %}
+    <main class="min-h-dvh bg-gray-100">
+        <div class="max-w-4xl mx-auto my-8 p-8 rounded-xl bg-white border border-gray-400">
+            {% block content %}{% endblock content %}
+        </div>
+    </main>
+</body>
+</html>

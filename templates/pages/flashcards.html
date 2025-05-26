@@ -1,0 +1,76 @@
+{% extends "layout/base.html" %}
+{% block content %}
+<h3 class="font-bold text-3xl">Flashcards</h3>
+
+<div x-data="{
+    selectedType: 'All',
+    typeOptions: [
+        'All',
+        'Verbs',
+        'Adjectives',
+        'Nouns',
+        'Other'
+    ],
+    amount: 100,
+    flipped: false,
+    direction: true,
+
+    currentIndex: 0,
+    currentWord: 'Flashcard',
+    currentSubWord: 'SubWord',
+    currentBackside: 'Backside',
+
+    words: [
+        {english:'to write', swedish: 'att skriva', group: '1'},
+        {english:'to eat', swedish: 'att äta', group: '1'}
+    ],
+
+    nextWord() {
+        this.currentIndex = (this.currentIndex + 1) % this.words.length;
+        this.currentWord = this.words[this.currentIndex].swedish;
+        this.currentSubWord = this.words[this.currentIndex].group;
+        this.currentBackside = this.words[this.currentIndex].english;
+    },
+}" class="">
+    {# settings #}
+    <div class="flex gap-2 mt-4 items-center">
+    Settings
+        <select name="my_option" x-model="selectedType" class="border border-gray-300 rounded rounded-xl p-2 h-10">
+            <template x-for="type in typeOptions" :key="type">
+                <option :value="type" x-text="type"></option>
+            </template>
+        </select>
+        <select name="my_option" x-model="direction" class="border border-gray-300 rounded rounded-xl p-2 h-10">
+            <option :value="true">English -> Swedish</option>
+            <option :value="false">Swedish -> English</option>
+        </select>
+        <input type="number" x-model="amount" class="border border-gray-300 rounded rounded-xl p-2 h-10">
+    </div>
+    {# <p x-text="selectedType"></p>
+    <p x-text="amount"></p> #}
+    <p x-text="currentIndex"></p>
+
+    {# flashcard #}
+    <div @click="flipped = !flipped" class="max-w-96 h-32 mx-auto border border-neutral-300 rounded rounded-2xl p-4 text-center mt-4">
+        <div x-show="!flipped">
+            <h3 class="font-semibold text-2xl" x-text="currentWord"></h3>
+            <p class="text-gray-700" x-text="currentSubWord"></p>
+        </div>
+        <div x-show="flipped">
+            <h3 class="font-semibold text-2xl" x-text="currentBackside"></h3>
+        </div>
+    </div>
+    {# <p x-text="flipped"></p> #}
+
+    {# controls #}
+    <div class="flex justify-center gap-4 mt-4">
+        <div class="text-center">
+            <p> < 1 min </p>
+            <button @click="nextWord" class="bg-red-400 rounded rounded-xl px-4 h-10">Again</button>
+        </div>
+        <button @click="nextWord" class="border border-gray-300 rounded rounded-xl px-4 h-10">Good</button>
+        <button @click="nextWord" class="bg-violet-400 rounded rounded-xl px-4 h-10">Easy</button>
+    </div>
+</div>
+
+{% endblock content %}

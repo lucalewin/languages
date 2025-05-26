@@ -1,0 +1,6002 @@
+[
+  {
+    "rank": 1,
+    "word": "en",
+    "type": "determiner",
+    "definition": "a, an"
+  },
+  {
+    "rank": 2,
+    "word": "och",
+    "type": "conjunction",
+    "definition": "and"
+  },
+  {
+    "rank": 3,
+    "word": "i",
+    "type": "preposition",
+    "definition": "in, at"
+  },
+  {
+    "rank": 4,
+    "word": "att",
+    "type": "particle/conjunction",
+    "definition": "to / that"
+  },
+  {
+    "rank": 5,
+    "word": "vara",
+    "type": "verb",
+    "definition": "to be"
+  },
+  {
+    "rank": 6,
+    "word": "den",
+    "type": "pronoun/determiner",
+    "definition": "it, the [common gender]"
+  },
+  {
+    "rank": 7,
+    "word": "på",
+    "type": "preposition",
+    "definition": "on, at, in"
+  },
+  {
+    "rank": 8,
+    "word": "som",
+    "type": "pronoun/conjunction",
+    "definition": "who, which, that, as"
+  },
+  {
+    "rank": 9,
+    "word": "ha",
+    "type": "verb",
+    "definition": "to have"
+  },
+  {
+    "rank": 10,
+    "word": "för",
+    "type": "preposition/adverb/conjunction",
+    "definition": "for, too, because"
+  },
+  {
+    "rank": 11,
+    "word": "med",
+    "type": "preposition",
+    "definition": "with"
+  },
+  {
+    "rank": 12,
+    "word": "av",
+    "type": "preposition",
+    "definition": "of, by, from"
+  },
+  {
+    "rank": 13,
+    "word": "jag",
+    "type": "pronoun",
+    "definition": "I"
+  },
+  {
+    "rank": 14,
+    "word": "till",
+    "type": "preposition",
+    "definition": "to, till, for"
+  },
+  {
+    "rank": 15,
+    "word": "vi",
+    "type": "pronoun",
+    "definition": "we"
+  },
+  {
+    "rank": 16,
+    "word": "inte",
+    "type": "adverb/particle",
+    "definition": "not"
+  },
+  {
+    "rank": 17,
+    "word": "om",
+    "type": "preposition/conjunction",
+    "definition": "if, about, around"
+  },
+  {
+    "rank": 18,
+    "word": "sig",
+    "type": "pronoun",
+    "definition": "oneself, himself, herself, itself, themselves [reflexive]"
+  },
+  {
+    "rank": 19,
+    "word": "kunna",
+    "type": "verb",
+    "definition": "to be able to, can"
+  },
+  {
+    "rank": 20,
+    "word": "skola",
+    "type": "verb",
+    "definition": "shall, will, should, ought to"
+  },
+  {
+    "rank": 21,
+    "word": "så",
+    "type": "adverb/conjunction",
+    "definition": "so, thus, then, as"
+  },
+  {
+    "rank": 22,
+    "word": "men",
+    "type": "conjunction",
+    "definition": "but"
+  },
+  {
+    "rank": 23,
+    "word": "få",
+    "type": "verb",
+    "definition": "to get, receive, may, be allowed to"
+  },
+  {
+    "rank": 24,
+    "word": "man",
+    "type": "pronoun",
+    "definition": "one, you [generic]"
+  },
+  {
+    "rank": 25,
+    "word": "du",
+    "type": "pronoun",
+    "definition": "you [singular, informal]"
+  },
+  {
+    "rank": 26,
+    "word": "han",
+    "type": "pronoun",
+    "definition": "he"
+  },
+  {
+    "rank": 27,
+    "word": "från",
+    "type": "preposition",
+    "definition": "from"
+  },
+  {
+    "rank": 28,
+    "word": "de",
+    "type": "pronoun/determiner",
+    "definition": "they, the [plural]"
+  },
+  {
+    "rank": 29,
+    "word": "bli",
+    "type": "verb",
+    "definition": "to become"
+  },
+  {
+    "rank": 30,
+    "word": "komma",
+    "type": "verb",
+    "definition": "to come"
+  },
+  {
+    "rank": 31,
+    "word": "mycket",
+    "type": "adverb/adjective/pronoun",
+    "definition": "very, much, a lot"
+  },
+  {
+    "rank": 32,
+    "word": "nu",
+    "type": "adverb",
+    "definition": "now"
+  },
+  {
+    "rank": 33,
+    "word": "göra",
+    "type": "verb",
+    "definition": "to do, make"
+  },
+  {
+    "rank": 34,
+    "word": "när",
+    "type": "conjunction/adverb",
+    "definition": "when, as"
+  },
+  {
+    "rank": 35,
+    "word": "all",
+    "type": "determiner/adjective",
+    "definition": "all"
+  },
+  {
+    "rank": 36,
+    "word": "någon",
+    "type": "pronoun/determiner",
+    "definition": "someone, anyone, some"
+  },
+  {
+    "rank": 37,
+    "word": "år",
+    "type": "noun",
+    "definition": "year"
+  },
+  {
+    "rank": 38,
+    "word": "denna",
+    "type": "determiner/pronoun",
+    "definition": "this [common gender]"
+  },
+  {
+    "rank": 39,
+    "word": "under",
+    "type": "preposition/adverb",
+    "definition": "under, during"
+  },
+  {
+    "rank": 40,
+    "word": "annan",
+    "type": "adjective/pronoun",
+    "definition": "other, another"
+  },
+  {
+    "rank": 41,
+    "word": "eller",
+    "type": "conjunction",
+    "definition": "or"
+  },
+  {
+    "rank": 42,
+    "word": "ta",
+    "type": "verb",
+    "definition": "to take"
+  },
+  {
+    "rank": 43,
+    "word": "gå",
+    "type": "verb",
+    "definition": "to go, walk"
+  },
+  {
+    "rank": 44,
+    "word": "säga",
+    "type": "verb",
+    "definition": "to say"
+  },
+  {
+    "rank": 45,
+    "word": "bra",
+    "type": "adjective/adverb",
+    "definition": "good, well"
+  },
+  {
+    "rank": 46,
+    "word": "stor",
+    "type": "adjective",
+    "definition": "big, large, great"
+  },
+  {
+    "rank": 47,
+    "word": "efter",
+    "type": "preposition/adverb/conjunction",
+    "definition": "after, behind, for"
+  },
+  {
+    "rank": 48,
+    "word": "hon",
+    "type": "pronoun",
+    "definition": "she"
+  },
+  {
+    "rank": 49,
+    "word": "här",
+    "type": "adverb",
+    "definition": "here"
+  },
+  {
+    "rank": 50,
+    "word": "finnas",
+    "type": "verb",
+    "definition": "to exist, be found, there is/are"
+  },
+  {
+    "rank": 51,
+    "word": "där",
+    "type": "adverb",
+    "definition": "there"
+  },
+  {
+    "rank": 52,
+    "word": "se",
+    "type": "verb",
+    "definition": "to see, look"
+  },
+  {
+    "rank": 53,
+    "word": "ny",
+    "type": "adjective",
+    "definition": "new"
+  },
+  {
+    "rank": 54,
+    "word": "vid",
+    "type": "preposition",
+    "definition": "at, by, near, upon"
+  },
+  {
+    "rank": 55,
+    "word": "också",
+    "type": "adverb",
+    "definition": "also, too"
+  },
+  {
+    "rank": 56,
+    "word": "även",
+    "type": "adverb",
+    "definition": "also, even"
+  },
+  {
+    "rank": 57,
+    "word": "då",
+    "type": "adverb/conjunction",
+    "definition": "then, when, as, since"
+  },
+  {
+    "rank": 58,
+    "word": "ut",
+    "type": "adverb",
+    "definition": "out"
+  },
+  {
+    "rank": 59,
+    "word": "in",
+    "type": "adverb/preposition",
+    "definition": "in, into"
+  },
+  {
+    "rank": 60,
+    "word": "hur",
+    "type": "adverb",
+    "definition": "how"
+  },
+  {
+    "rank": 61,
+    "word": "vilja",
+    "type": "verb",
+    "definition": "to want, wish, will"
+  },
+  {
+    "rank": 62,
+    "word": "lite",
+    "type": "adverb/adjective/pronoun",
+    "definition": "a little, little, few"
+  },
+  {
+    "rank": 63,
+    "word": "upp",
+    "type": "adverb/preposition",
+    "definition": "up"
+  },
+  {
+    "rank": 64,
+    "word": "mot",
+    "type": "preposition",
+    "definition": "against, towards, to"
+  },
+  {
+    "rank": 65,
+    "word": "över",
+    "type": "preposition/adverb",
+    "definition": "over, above, across"
+  },
+  {
+    "rank": 66,
+    "word": "sedan",
+    "type": "adverb/preposition/conjunction",
+    "definition": "then, since, ago"
+  },
+  {
+    "rank": 67,
+    "word": "dag",
+    "type": "noun",
+    "definition": "day"
+  },
+  {
+    "rank": 68,
+    "word": "bara",
+    "type": "adverb",
+    "definition": "only, just, simply"
+  },
+  {
+    "rank": 69,
+    "word": "vad",
+    "type": "pronoun/adverb",
+    "definition": "what"
+  },
+  {
+    "rank": 70,
+    "word": "två",
+    "type": "numeral",
+    "definition": "two"
+  },
+  {
+    "rank": 71,
+    "word": "än",
+    "type": "conjunction/adverb",
+    "definition": "than, yet, still"
+  },
+  {
+    "rank": 72,
+    "word": "sen",
+    "type": "adverb",
+    "definition": "then, later, since [colloquial for sedan]"
+  },
+  {
+    "rank": 73,
+    "word": "tid",
+    "type": "noun",
+    "definition": "time"
+  },
+  {
+    "rank": 74,
+    "word": "vilken",
+    "type": "pronoun/determiner",
+    "definition": "which, what [common gender]"
+  },
+  {
+    "rank": 75,
+    "word": "Sverige",
+    "type": "proper noun",
+    "definition": "Sweden"
+  },
+  {
+    "rank": 76,
+    "word": "ge",
+    "type": "verb",
+    "definition": "to give"
+  },
+  {
+    "rank": 77,
+    "word": "ingen",
+    "type": "pronoun/determiner",
+    "definition": "no, nobody, none [common gender]"
+  },
+  {
+    "rank": 78,
+    "word": "del",
+    "type": "noun",
+    "definition": "part, share"
+  },
+  {
+    "rank": 79,
+    "word": "hel",
+    "type": "adjective",
+    "definition": "whole, entire"
+  },
+  {
+    "rank": 80,
+    "word": "många",
+    "type": "adjective/pronoun",
+    "definition": "many"
+  },
+  {
+    "rank": 81,
+    "word": "utan",
+    "type": "preposition/conjunction",
+    "definition": "without / but, rather"
+  },
+  {
+    "rank": 82,
+    "word": "gång",
+    "type": "noun",
+    "definition": "time [instance], walk, occasion"
+  },
+  {
+    "rank": 83,
+    "word": "ni",
+    "type": "pronoun",
+    "definition": "you [plural/formal]"
+  },
+  {
+    "rank": 84,
+    "word": "enligt",
+    "type": "preposition",
+    "definition": "according to"
+  },
+  {
+    "rank": 85,
+    "word": "svensk",
+    "type": "adjective",
+    "definition": "Swedish"
+  },
+  {
+    "rank": 86,
+    "word": "liten",
+    "type": "adjective",
+    "definition": "little, small"
+  },
+  {
+    "rank": 87,
+    "word": "person",
+    "type": "noun",
+    "definition": "person"
+  },
+  {
+    "rank": 88,
+    "word": "tidig",
+    "type": "adjective",
+    "definition": "early"
+  },
+  {
+    "rank": 89,
+    "word": "måste",
+    "type": "verb",
+    "definition": "must, have to"
+  },
+  {
+    "rank": 90,
+    "word": "behöva",
+    "type": "verb",
+    "definition": "to need"
+  },
+  {
+    "rank": 91,
+    "word": "ju",
+    "type": "adverb/particle",
+    "definition": "you know, indeed, of course"
+  },
+  {
+    "rank": 92,
+    "word": "barn",
+    "type": "noun",
+    "definition": "child"
+  },
+  {
+    "rank": 93,
+    "word": "olik",
+    "type": "adjective",
+    "definition": "different, unlike"
+  },
+  {
+    "rank": 94,
+    "word": "börja",
+    "type": "verb",
+    "definition": "to begin, start"
+  },
+  {
+    "rank": 95,
+    "word": "flera",
+    "type": "adjective/pronoun",
+    "definition": "several, multiple"
+  },
+  {
+    "rank": 96,
+    "word": "tre",
+    "type": "numeral",
+    "definition": "three"
+  },
+  {
+    "rank": 97,
+    "word": "visa",
+    "type": "verb",
+    "definition": "to show"
+  },
+  {
+    "rank": 98,
+    "word": "land",
+    "type": "noun",
+    "definition": "country, land"
+  },
+  {
+    "rank": 99,
+    "word": "hålla",
+    "type": "verb",
+    "definition": "to hold, keep"
+  },
+  {
+    "rank": 100,
+    "word": "fram",
+    "type": "adverb",
+    "definition": "forward, forth, out"
+  },
+  {
+    "rank": 101,
+    "word": "procent",
+    "type": "noun",
+    "definition": "percent"
+  },
+  {
+    "rank": 102,
+    "word": "genom",
+    "type": "preposition",
+    "definition": "through, by"
+  },
+  {
+    "rank": 103,
+    "word": "mellan",
+    "type": "preposition",
+    "definition": "between"
+  },
+  {
+    "rank": 104,
+    "word": "bland",
+    "type": "preposition",
+    "definition": "among, amongst"
+  },
+  {
+    "rank": 105,
+    "word": "skriva",
+    "type": "verb",
+    "definition": "to write"
+  },
+  {
+    "rank": 106,
+    "word": "vecka",
+    "type": "noun",
+    "definition": "week"
+  },
+  {
+    "rank": 107,
+    "word": "hög",
+    "type": "adjective",
+    "definition": "high, tall"
+  },
+  {
+    "rank": 108,
+    "word": "själv",
+    "type": "pronoun/adjective",
+    "definition": "self, oneself, myself, yourself, etc."
+  },
+  {
+    "rank": 109,
+    "word": "inom",
+    "type": "preposition",
+    "definition": "within, inside"
+  },
+  {
+    "rank": 110,
+    "word": "både",
+    "type": "conjunction/pronoun",
+    "definition": "both"
+  },
+  {
+    "rank": 111,
+    "word": "stå",
+    "type": "verb",
+    "definition": "to stand"
+  },
+  {
+    "rank": 112,
+    "word": "ligga",
+    "type": "verb",
+    "definition": "to lie [down], be situated"
+  },
+  {
+    "rank": 113,
+    "word": "kommun",
+    "type": "noun",
+    "definition": "municipality, commune"
+  },
+  {
+    "rank": 114,
+    "word": "använda",
+    "type": "verb",
+    "definition": "to use"
+  },
+  {
+    "rank": 115,
+    "word": "helt",
+    "type": "adverb",
+    "definition": "completely, entirely, whole"
+  },
+  {
+    "rank": 116,
+    "word": "fråga",
+    "type": "noun/verb",
+    "definition": "question / to ask"
+  },
+  {
+    "rank": 117,
+    "word": "plats",
+    "type": "noun",
+    "definition": "place, spot, seat"
+  },
+  {
+    "rank": 118,
+    "word": "idag",
+    "type": "adverb",
+    "definition": "today"
+  },
+  {
+    "rank": 119,
+    "word": "gälla",
+    "type": "verb",
+    "definition": "to concern, apply, be valid"
+  },
+  {
+    "rank": 120,
+    "word": "innan",
+    "type": "conjunction/preposition/adverb",
+    "definition": "before"
+  },
+  {
+    "rank": 121,
+    "word": "veta",
+    "type": "verb",
+    "definition": "to know [fact]"
+  },
+  {
+    "rank": 122,
+    "word": "spela",
+    "type": "verb",
+    "definition": "to play [game, instrument]"
+  },
+  {
+    "rank": 123,
+    "word": "sätt",
+    "type": "noun",
+    "definition": "way, manner, method"
+  },
+  {
+    "rank": 124,
+    "word": "samt",
+    "type": "conjunction",
+    "definition": "and, as well as [formal]"
+  },
+  {
+    "rank": 125,
+    "word": "tro",
+    "type": "verb/noun",
+    "definition": "to believe, think / faith, belief"
+  },
+  {
+    "rank": 126,
+    "word": "kanske",
+    "type": "adverb",
+    "definition": "perhaps, maybe"
+  },
+  {
+    "rank": 127,
+    "word": "öka",
+    "type": "verb",
+    "definition": "to increase"
+  },
+  {
+    "rank": 128,
+    "word": "egen",
+    "type": "adjective",
+    "definition": "own"
+  },
+  {
+    "rank": 129,
+    "word": "fall",
+    "type": "noun",
+    "definition": "case, fall, instance"
+  },
+  {
+    "rank": 130,
+    "word": "länge",
+    "type": "adverb",
+    "definition": "long [time]"
+  },
+  {
+    "rank": 131,
+    "word": "redan",
+    "type": "adverb",
+    "definition": "already"
+  },
+  {
+    "rank": 132,
+    "word": "samma",
+    "type": "adjective/pronoun",
+    "definition": "same"
+  },
+  {
+    "rank": 133,
+    "word": "människa",
+    "type": "noun",
+    "definition": "person, human being"
+  },
+  {
+    "rank": 134,
+    "word": "rätt",
+    "type": "noun/adjective/adverb",
+    "definition": "right, law / right, correct / correctly, quite"
+  },
+  {
+    "rank": 135,
+    "word": "bild",
+    "type": "noun",
+    "definition": "picture, image"
+  },
+  {
+    "rank": 136,
+    "word": "gammal",
+    "type": "adjective",
+    "definition": "old"
+  },
+  {
+    "rank": 137,
+    "word": "viktig",
+    "type": "adjective",
+    "definition": "important"
+  },
+  {
+    "rank": 138,
+    "word": "tycka",
+    "type": "verb",
+    "definition": "to think, feel, have an opinion"
+  },
+  {
+    "rank": 139,
+    "word": "mången",
+    "type": "pronoun/determiner",
+    "definition": "many a, many"
+  },
+  {
+    "rank": 140,
+    "word": "krona",
+    "type": "noun",
+    "definition": "crown [currency, object]"
+  },
+  {
+    "rank": 141,
+    "word": "hitta",
+    "type": "verb",
+    "definition": "to find"
+  },
+  {
+    "rank": 142,
+    "word": "dock",
+    "type": "adverb",
+    "definition": "however, though, yet"
+  },
+  {
+    "rank": 143,
+    "word": "hos",
+    "type": "preposition",
+    "definition": "at, with, among [someone's place]"
+  },
+  {
+    "rank": 144,
+    "word": "igen",
+    "type": "adverb",
+    "definition": "again"
+  },
+  {
+    "rank": 145,
+    "word": "företag",
+    "type": "noun",
+    "definition": "company, business, enterprise"
+  },
+  {
+    "rank": 146,
+    "word": "fler",
+    "type": "adjective/pronoun",
+    "definition": "more [countable]"
+  },
+  {
+    "rank": 147,
+    "word": "tänka",
+    "type": "verb",
+    "definition": "to think"
+  },
+  {
+    "rank": 148,
+    "word": "ner",
+    "type": "adverb",
+    "definition": "down"
+  },
+  {
+    "rank": 149,
+    "word": "hem",
+    "type": "adverb/noun",
+    "definition": "home [direction] / home, house"
+  },
+  {
+    "rank": 150,
+    "word": "fortsätta",
+    "type": "verb",
+    "definition": "to continue"
+  },
+  {
+    "rank": 151,
+    "word": "nära",
+    "type": "adverb/preposition/adjective",
+    "definition": "near, close"
+  },
+  {
+    "rank": 152,
+    "word": "väg",
+    "type": "noun",
+    "definition": "road, way, path"
+  },
+  {
+    "rank": 153,
+    "word": "varje",
+    "type": "determiner",
+    "definition": "each, every"
+  },
+  {
+    "rank": 154,
+    "word": "väldig",
+    "type": "adjective",
+    "definition": "huge, vast, immense"
+  },
+  {
+    "rank": 155,
+    "word": "just",
+    "type": "adverb",
+    "definition": "just, exactly, precisely"
+  },
+  {
+    "rank": 156,
+    "word": "liv",
+    "type": "noun",
+    "definition": "life"
+  },
+  {
+    "rank": 157,
+    "word": "lägga",
+    "type": "verb",
+    "definition": "to lay, put, place"
+  },
+  {
+    "rank": 158,
+    "word": "svår",
+    "type": "adjective",
+    "definition": "difficult, hard"
+  },
+  {
+    "rank": 159,
+    "word": "samtidig",
+    "type": "adjective",
+    "definition": "simultaneous, concurrent"
+  },
+  {
+    "rank": 160,
+    "word": "eftersom",
+    "type": "conjunction",
+    "definition": "because, since, as"
+  },
+  {
+    "rank": 161,
+    "word": "väl",
+    "type": "adverb/particle",
+    "definition": "well / surely, probably, I suppose"
+  },
+  {
+    "rank": 162,
+    "word": "värld",
+    "type": "noun",
+    "definition": "world"
+  },
+  {
+    "rank": 163,
+    "word": "riktig",
+    "type": "adjective",
+    "definition": "real, proper, right, true"
+  },
+  {
+    "rank": 164,
+    "word": "fin",
+    "type": "adjective",
+    "definition": "fine, nice, good, beautiful"
+  },
+  {
+    "rank": 165,
+    "word": "sitta",
+    "type": "verb",
+    "definition": "to sit"
+  },
+  {
+    "rank": 166,
+    "word": "handla",
+    "type": "verb",
+    "definition": "to act, deal, shop"
+  },
+  {
+    "rank": 167,
+    "word": "böra",
+    "type": "verb",
+    "definition": "ought to, should"
+  },
+  {
+    "rank": 168,
+    "word": "tillbaka",
+    "type": "adverb",
+    "definition": "back"
+  },
+  {
+    "rank": 169,
+    "word": "god",
+    "type": "adjective",
+    "definition": "good, tasty"
+  },
+  {
+    "rank": 170,
+    "word": "lång",
+    "type": "adjective",
+    "definition": "long, tall"
+  },
+  {
+    "rank": 171,
+    "word": "därför",
+    "type": "adverb",
+    "definition": "therefore, that's why"
+  },
+  {
+    "rank": 172,
+    "word": "fyra",
+    "type": "numeral",
+    "definition": "four"
+  },
+  {
+    "rank": 173,
+    "word": "viss",
+    "type": "adjective",
+    "definition": "certain, specific, sure"
+  },
+  {
+    "rank": 174,
+    "word": "alltid",
+    "type": "adverb",
+    "definition": "always"
+  },
+  {
+    "rank": 175,
+    "word": "miljon",
+    "type": "noun",
+    "definition": "million"
+  },
+  {
+    "rank": 176,
+    "word": "Stockholm",
+    "type": "proper noun",
+    "definition": "Stockholm"
+  },
+  {
+    "rank": 177,
+    "word": "ställa",
+    "type": "verb",
+    "definition": "to put, place, set, ask [a question]"
+  },
+  {
+    "rank": 178,
+    "word": "lämna",
+    "type": "verb",
+    "definition": "to leave, hand over"
+  },
+  {
+    "rank": 179,
+    "word": "runt",
+    "type": "adverb/preposition",
+    "definition": "around, about"
+  },
+  {
+    "rank": 180,
+    "word": "känna",
+    "type": "verb",
+    "definition": "to feel, know [person/place], sense"
+  },
+  {
+    "rank": 181,
+    "word": "månad",
+    "type": "noun",
+    "definition": "month"
+  },
+  {
+    "rank": 182,
+    "word": "gärna",
+    "type": "adverb",
+    "definition": "gladly, willingly, please"
+  },
+  {
+    "rank": 183,
+    "word": "antal",
+    "type": "noun",
+    "definition": "number, quantity"
+  },
+  {
+    "rank": 184,
+    "word": "åt",
+    "type": "preposition/adverb",
+    "definition": "to, for, towards / [direction particle]"
+  },
+  {
+    "rank": 185,
+    "word": "ofta",
+    "type": "adverb",
+    "definition": "often"
+  },
+  {
+    "rank": 186,
+    "word": "snabb",
+    "type": "adjective",
+    "definition": "fast, quick"
+  },
+  {
+    "rank": 187,
+    "word": "bil",
+    "type": "noun",
+    "definition": "car"
+  },
+  {
+    "rank": 188,
+    "word": "arbeta",
+    "type": "verb",
+    "definition": "to work"
+  },
+  {
+    "rank": 189,
+    "word": "klar",
+    "type": "adjective",
+    "definition": "clear, ready, finished"
+  },
+  {
+    "rank": 190,
+    "word": "match",
+    "type": "noun",
+    "definition": "match [game]"
+  },
+  {
+    "rank": 191,
+    "word": "försöka",
+    "type": "verb",
+    "definition": "to try, attempt"
+  },
+  {
+    "rank": 192,
+    "word": "regering",
+    "type": "noun",
+    "definition": "government"
+  },
+  {
+    "rank": 193,
+    "word": "sida",
+    "type": "noun",
+    "definition": "side, page"
+  },
+  {
+    "rank": 194,
+    "word": "trots",
+    "type": "preposition/noun",
+    "definition": "despite / defiance"
+  },
+  {
+    "rank": 195,
+    "word": "kvinna",
+    "type": "noun",
+    "definition": "woman"
+  },
+  {
+    "rank": 196,
+    "word": "tillsammans",
+    "type": "adverb",
+    "definition": "together"
+  },
+  {
+    "rank": 197,
+    "word": "åka",
+    "type": "verb",
+    "definition": "to go, travel [by vehicle]"
+  },
+  {
+    "rank": 198,
+    "word": "dessutom",
+    "type": "adverb",
+    "definition": "besides, moreover, in addition"
+  },
+  {
+    "rank": 199,
+    "word": "lag",
+    "type": "noun",
+    "definition": "law, team, layer"
+  },
+  {
+    "rank": 200,
+    "word": "möjlighet",
+    "type": "noun",
+    "definition": "possibility, opportunity"
+  },
+  {
+    "rank": 201,
+    "word": "sak",
+    "type": "noun",
+    "definition": "thing, matter, case"
+  },
+  {
+    "rank": 202,
+    "word": "slut",
+    "type": "noun/adjective",
+    "definition": "end / finished, worn out"
+  },
+  {
+    "rank": 203,
+    "word": "grund",
+    "type": "noun",
+    "definition": "ground, basis, foundation, reason"
+  },
+  {
+    "rank": 204,
+    "word": "berätta",
+    "type": "verb",
+    "definition": "to tell, narrate"
+  },
+  {
+    "rank": 205,
+    "word": "skapa",
+    "type": "verb",
+    "definition": "to create"
+  },
+  {
+    "rank": 206,
+    "word": "inför",
+    "type": "preposition",
+    "definition": "before, in front of, facing"
+  },
+  {
+    "rank": 207,
+    "word": "läsa",
+    "type": "verb",
+    "definition": "to read, study"
+  },
+  {
+    "rank": 208,
+    "word": "nog",
+    "type": "adverb",
+    "definition": "enough / probably, surely"
+  },
+  {
+    "rank": 209,
+    "word": "ännu",
+    "type": "adverb",
+    "definition": "yet, still, even"
+  },
+  {
+    "rank": 210,
+    "word": "bygga",
+    "type": "verb",
+    "definition": "to build"
+  },
+  {
+    "rank": 211,
+    "word": "aldrig",
+    "type": "adverb",
+    "definition": "never"
+  },
+  {
+    "rank": 212,
+    "word": "vanlig",
+    "type": "adjective",
+    "definition": "common, usual, ordinary"
+  },
+  {
+    "rank": 213,
+    "word": "mål",
+    "type": "noun",
+    "definition": "goal, objective, target, meal"
+  },
+  {
+    "rank": 214,
+    "word": "följa",
+    "type": "verb",
+    "definition": "to follow, accompany"
+  },
+  {
+    "rank": 215,
+    "word": "arbete",
+    "type": "noun",
+    "definition": "work, job"
+  },
+  {
+    "rank": 216,
+    "word": "bort",
+    "type": "adverb",
+    "definition": "away"
+  },
+  {
+    "rank": 217,
+    "word": "sån",
+    "type": "adjective/pronoun",
+    "definition": "such, such a [colloquial for sådan]"
+  },
+  {
+    "rank": 218,
+    "word": "ändå",
+    "type": "adverb",
+    "definition": "still, yet, anyway"
+  },
+  {
+    "rank": 219,
+    "word": "beslut",
+    "type": "noun",
+    "definition": "decision"
+  },
+  {
+    "rank": 220,
+    "word": "enkel",
+    "type": "adjective",
+    "definition": "simple, easy"
+  },
+  {
+    "rank": 221,
+    "word": "hemma",
+    "type": "adverb",
+    "definition": "at home"
+  },
+  {
+    "rank": 222,
+    "word": "kvar",
+    "type": "adverb",
+    "definition": "left, remaining"
+  },
+  {
+    "rank": 223,
+    "word": "köpa",
+    "type": "verb",
+    "definition": "to buy"
+  },
+  {
+    "rank": 224,
+    "word": "nästa",
+    "type": "adjective/adverb",
+    "definition": "next"
+  },
+  {
+    "rank": 225,
+    "word": "välja",
+    "type": "verb",
+    "definition": "to choose, elect"
+  },
+  {
+    "rank": 226,
+    "word": "innebära",
+    "type": "verb",
+    "definition": "to mean, imply, involve"
+  },
+  {
+    "rank": 227,
+    "word": "vänta",
+    "type": "verb",
+    "definition": "to wait"
+  },
+  {
+    "rank": 228,
+    "word": "problem",
+    "type": "noun",
+    "definition": "problem"
+  },
+  {
+    "rank": 229,
+    "word": "lätt",
+    "type": "adjective/adverb",
+    "definition": "light [weight], easy / lightly, easily"
+  },
+  {
+    "rank": 230,
+    "word": "kort",
+    "type": "adjective/noun/adverb",
+    "definition": "short / card / shortly"
+  },
+  {
+    "rank": 231,
+    "word": "jobb",
+    "type": "noun",
+    "definition": "job, work"
+  },
+  {
+    "rank": 232,
+    "word": "låta",
+    "type": "verb",
+    "definition": "to let, allow, sound"
+  },
+  {
+    "rank": 233,
+    "word": "hjälpa",
+    "type": "verb",
+    "definition": "to help"
+  },
+  {
+    "rank": 234,
+    "word": "först",
+    "type": "adverb/adjective",
+    "definition": "first, at first / first"
+  },
+  {
+    "rank": 235,
+    "word": "ur",
+    "type": "preposition",
+    "definition": "out of, from"
+  },
+  {
+    "rank": 236,
+    "word": "kalla",
+    "type": "verb",
+    "definition": "to call, name"
+  },
+  {
+    "rank": 237,
+    "word": "verkligen",
+    "type": "adverb",
+    "definition": "really, truly, indeed"
+  },
+  {
+    "rank": 238,
+    "word": "lika",
+    "type": "adverb/adjective",
+    "definition": "equally, as / equal, alike"
+  },
+  {
+    "rank": 239,
+    "word": "förra",
+    "type": "adjective",
+    "definition": "last, previous [common gender]"
+  },
+  {
+    "rank": 240,
+    "word": "verksamhet",
+    "type": "noun",
+    "definition": "activity, operation, business"
+  },
+  {
+    "rank": 241,
+    "word": "stark",
+    "type": "adjective",
+    "definition": "strong"
+  },
+  {
+    "rank": 242,
+    "word": "minska",
+    "type": "verb",
+    "definition": "to decrease, reduce"
+  },
+  {
+    "rank": 243,
+    "word": "nästan",
+    "type": "adverb",
+    "definition": "almost, nearly"
+  },
+  {
+    "rank": 244,
+    "word": "bolag",
+    "type": "noun",
+    "definition": "company"
+  },
+  {
+    "rank": 245,
+    "word": "kräva",
+    "type": "verb",
+    "definition": "to demand, require"
+  },
+  {
+    "rank": 246,
+    "word": "exempel",
+    "type": "noun",
+    "definition": "example"
+  },
+  {
+    "rank": 247,
+    "word": "område",
+    "type": "noun",
+    "definition": "area, region, field"
+  },
+  {
+    "rank": 248,
+    "word": "fortfarande",
+    "type": "adverb",
+    "definition": "still"
+  },
+  {
+    "rank": 249,
+    "word": "polis",
+    "type": "noun",
+    "definition": "police"
+  },
+  {
+    "rank": 250,
+    "word": "sista",
+    "type": "adjective",
+    "definition": "last, final"
+  },
+  {
+    "rank": 251,
+    "word": "möjlig",
+    "type": "adjective",
+    "definition": "possible"
+  },
+  {
+    "rank": 252,
+    "word": "jobba",
+    "type": "verb",
+    "definition": "to work [colloquial]"
+  },
+  {
+    "rank": 253,
+    "word": "stad",
+    "type": "noun",
+    "definition": "city, town"
+  },
+  {
+    "rank": 254,
+    "word": "fem",
+    "type": "numeral",
+    "definition": "five"
+  },
+  {
+    "rank": 255,
+    "word": "varför",
+    "type": "adverb",
+    "definition": "why"
+  },
+  {
+    "rank": 256,
+    "word": "ske",
+    "type": "verb",
+    "definition": "to happen, occur"
+  },
+  {
+    "rank": 257,
+    "word": "sätta",
+    "type": "verb",
+    "definition": "to put, set, place"
+  },
+  {
+    "rank": 258,
+    "word": "familj",
+    "type": "noun",
+    "definition": "family"
+  },
+  {
+    "rank": 259,
+    "word": "höra",
+    "type": "verb",
+    "definition": "to hear"
+  },
+  {
+    "rank": 260,
+    "word": "köra",
+    "type": "verb",
+    "definition": "to drive, run"
+  },
+  {
+    "rank": 261,
+    "word": "ytterlig",
+    "type": "adjective",
+    "definition": "further, additional, extreme"
+  },
+  {
+    "rank": 262,
+    "word": "hjälp",
+    "type": "noun",
+    "definition": "help, aid"
+  },
+  {
+    "rank": 263,
+    "word": "minut",
+    "type": "noun",
+    "definition": "minute"
+  },
+  {
+    "rank": 264,
+    "word": "slå",
+    "type": "verb",
+    "definition": "to hit, strike, beat, dial [phone]"
+  },
+  {
+    "rank": 265,
+    "word": "total",
+    "type": "adjective",
+    "definition": "total, complete"
+  },
+  {
+    "rank": 266,
+    "word": "erbjuda",
+    "type": "verb",
+    "definition": "to offer"
+  },
+  {
+    "rank": 267,
+    "word": "leda",
+    "type": "verb",
+    "definition": "to lead, guide"
+  },
+  {
+    "rank": 268,
+    "word": "lokal",
+    "type": "adjective/noun",
+    "definition": "local / premises, venue"
+  },
+  {
+    "rank": 269,
+    "word": "ställe",
+    "type": "noun",
+    "definition": "place, spot"
+  },
+  {
+    "rank": 270,
+    "word": "resa",
+    "type": "noun/verb",
+    "definition": "journey, trip / to travel, raise"
+  },
+  {
+    "rank": 271,
+    "word": "dom",
+    "type": "pronoun",
+    "definition": "they, them [colloquial for de/dem]"
+  },
+  {
+    "rank": 272,
+    "word": "pengar",
+    "type": "noun",
+    "definition": "money"
+  },
+  {
+    "rank": 273,
+    "word": "dra",
+    "type": "verb",
+    "definition": "to pull, draw, drag"
+  },
+  {
+    "rank": 274,
+    "word": "vidare",
+    "type": "adverb",
+    "definition": "further, on, onwards"
+  },
+  {
+    "rank": 275,
+    "word": "folk",
+    "type": "noun",
+    "definition": "people, folk"
+  },
+  {
+    "rank": 276,
+    "word": "kväll",
+    "type": "noun",
+    "definition": "evening"
+  },
+  {
+    "rank": 277,
+    "word": "ung",
+    "type": "adjective",
+    "definition": "young"
+  },
+  {
+    "rank": 278,
+    "word": "säsong",
+    "type": "noun",
+    "definition": "season"
+  },
+  {
+    "rank": 279,
+    "word": "bok",
+    "type": "noun",
+    "definition": "book"
+  },
+  {
+    "rank": 280,
+    "word": "utanför",
+    "type": "preposition/adverb",
+    "definition": "outside"
+  },
+  {
+    "rank": 281,
+    "word": "timme",
+    "type": "noun",
+    "definition": "hour"
+  },
+  {
+    "rank": 282,
+    "word": "alltså",
+    "type": "adverb",
+    "definition": "so, thus, therefore, consequently"
+  },
+  {
+    "rank": 283,
+    "word": "fast",
+    "type": "adverb/adjective/conjunction",
+    "definition": "fixed, firm, fast / although"
+  },
+  {
+    "rank": 284,
+    "word": "henne",
+    "type": "pronoun",
+    "definition": "her [object]"
+  },
+  {
+    "rank": 285,
+    "word": "hus",
+    "type": "noun",
+    "definition": "house, building"
+  },
+  {
+    "rank": 286,
+    "word": "hända",
+    "type": "verb",
+    "definition": "to happen, occur"
+  },
+  {
+    "rank": 287,
+    "word": "hoppas",
+    "type": "verb",
+    "definition": "to hope"
+  },
+  {
+    "rank": 288,
+    "word": "par",
+    "type": "noun",
+    "definition": "pair, couple"
+  },
+  {
+    "rank": 289,
+    "word": "precis",
+    "type": "adverb",
+    "definition": "precisely, exactly, just"
+  },
+  {
+    "rank": 290,
+    "word": "söka",
+    "type": "verb",
+    "definition": "to seek, search for, apply for"
+  },
+  {
+    "rank": 291,
+    "word": "resultat",
+    "type": "noun",
+    "definition": "result"
+  },
+  {
+    "rank": 292,
+    "word": "hård",
+    "type": "adjective",
+    "definition": "hard, tough, severe"
+  },
+  {
+    "rank": 293,
+    "word": "låg",
+    "type": "adjective",
+    "definition": "low"
+  },
+  {
+    "rank": 294,
+    "word": "direkt",
+    "type": "adverb/adjective",
+    "definition": "directly, straight / direct"
+  },
+  {
+    "rank": 295,
+    "word": "säker",
+    "type": "adjective",
+    "definition": "safe, secure, sure, certain"
+  },
+  {
+    "rank": 296,
+    "word": "hand",
+    "type": "noun",
+    "definition": "hand"
+  },
+  {
+    "rank": 297,
+    "word": "dålig",
+    "type": "adjective",
+    "definition": "bad, poor"
+  },
+  {
+    "rank": 298,
+    "word": "lära",
+    "type": "verb",
+    "definition": "to teach, learn"
+  },
+  {
+    "rank": 299,
+    "word": "kring",
+    "type": "preposition/adverb",
+    "definition": "around, about"
+  },
+  {
+    "rank": 300,
+    "word": "pris",
+    "type": "noun",
+    "definition": "price, prize"
+  },
+  {
+    "rank": 301,
+    "word": "betala",
+    "type": "verb",
+    "definition": "to pay"
+  },
+  {
+    "rank": 302,
+    "word": "sommar",
+    "type": "noun",
+    "definition": "summer"
+  },
+  {
+    "rank": 303,
+    "word": "början",
+    "type": "noun",
+    "definition": "beginning, start"
+  },
+  {
+    "rank": 304,
+    "word": "fungera",
+    "type": "verb",
+    "definition": "to function, work"
+  },
+  {
+    "rank": 305,
+    "word": "information",
+    "type": "noun",
+    "definition": "information"
+  },
+  {
+    "rank": 306,
+    "word": "uppgift",
+    "type": "noun",
+    "definition": "task, assignment, information, data"
+  },
+  {
+    "rank": 307,
+    "word": "mitt",
+    "type": "noun/pronoun/adjective",
+    "definition": "middle, center / my, mine [neuter]"
+  },
+  {
+    "rank": 308,
+    "word": "via",
+    "type": "preposition",
+    "definition": "via, by way of"
+  },
+  {
+    "rank": 309,
+    "word": "före",
+    "type": "preposition/adverb",
+    "definition": "before, in front of"
+  },
+  {
+    "rank": 310,
+    "word": "flytta",
+    "type": "verb",
+    "definition": "to move [house, object]"
+  },
+  {
+    "rank": 311,
+    "word": "snart",
+    "type": "adverb",
+    "definition": "soon"
+  },
+  {
+    "rank": 312,
+    "word": "personal",
+    "type": "noun",
+    "definition": "staff, personnel"
+  },
+  {
+    "rank": 313,
+    "word": "form",
+    "type": "noun",
+    "definition": "form, shape, condition"
+  },
+  {
+    "rank": 314,
+    "word": "mena",
+    "type": "verb",
+    "definition": "to mean, intend"
+  },
+  {
+    "rank": 315,
+    "word": "verka",
+    "type": "verb",
+    "definition": "to seem, appear, act, work"
+  },
+  {
+    "rank": 316,
+    "word": "öppna",
+    "type": "verb",
+    "definition": "to open"
+  },
+  {
+    "rank": 317,
+    "word": "film",
+    "type": "noun",
+    "definition": "film, movie"
+  },
+  {
+    "rank": 318,
+    "word": "elev",
+    "type": "noun",
+    "definition": "pupil, student"
+  },
+  {
+    "rank": 319,
+    "word": "samhälle",
+    "type": "noun",
+    "definition": "society, community"
+  },
+  {
+    "rank": 320,
+    "word": "kännas",
+    "type": "verb",
+    "definition": "to feel [passive/deponent]"
+  },
+  {
+    "rank": 321,
+    "word": "medan",
+    "type": "conjunction",
+    "definition": "while, whereas"
+  },
+  {
+    "rank": 322,
+    "word": "kund",
+    "type": "noun",
+    "definition": "customer, client"
+  },
+  {
+    "rank": 323,
+    "word": "per",
+    "type": "preposition",
+    "definition": "per, by"
+  },
+  {
+    "rank": 324,
+    "word": "risk",
+    "type": "noun",
+    "definition": "risk"
+  },
+  {
+    "rank": 325,
+    "word": "leva",
+    "type": "verb",
+    "definition": "to live, be alive"
+  },
+  {
+    "rank": 326,
+    "word": "emot",
+    "type": "adverb/preposition",
+    "definition": "against, towards"
+  },
+  {
+    "rank": 327,
+    "word": "ganska",
+    "type": "adverb",
+    "definition": "quite, rather, fairly"
+  },
+  {
+    "rank": 328,
+    "word": "långt",
+    "type": "adverb",
+    "definition": "far, long"
+  },
+  {
+    "rank": 329,
+    "word": "faktisk",
+    "type": "adjective",
+    "definition": "actual, real, factual"
+  },
+  {
+    "rank": 330,
+    "word": "helg",
+    "type": "noun",
+    "definition": "weekend"
+  },
+  {
+    "rank": 331,
+    "word": "skada",
+    "type": "noun/verb",
+    "definition": "damage, injury / to damage, injure"
+  },
+  {
+    "rank": 332,
+    "word": "passa",
+    "type": "verb",
+    "definition": "to fit, suit, pass, look after"
+  },
+  {
+    "rank": 333,
+    "word": "plan",
+    "type": "noun",
+    "definition": "plan, level, plane"
+  },
+  {
+    "rank": 334,
+    "word": "smitta",
+    "type": "verb/noun",
+    "definition": "to infect, spread / contagion, infection"
+  },
+  {
+    "rank": 335,
+    "word": "svar",
+    "type": "noun",
+    "definition": "answer, response"
+  },
+  {
+    "rank": 336,
+    "word": "anse",
+    "type": "verb",
+    "definition": "to consider, regard, deem"
+  },
+  {
+    "rank": 337,
+    "word": "påverka",
+    "type": "verb",
+    "definition": "to influence, affect"
+  },
+  {
+    "rank": 338,
+    "word": "istället",
+    "type": "adverb",
+    "definition": "instead"
+  },
+  {
+    "rank": 339,
+    "word": "vatten",
+    "type": "noun",
+    "definition": "water"
+  },
+  {
+    "rank": 340,
+    "word": "allt",
+    "type": "pronoun/determiner/adverb",
+    "definition": "everything / all [neuter] / increasingly"
+  },
+  {
+    "rank": 341,
+    "word": "ute",
+    "type": "adverb",
+    "definition": "out, outside"
+  },
+  {
+    "rank": 342,
+    "word": "bakom",
+    "type": "preposition/adverb",
+    "definition": "behind"
+  },
+  {
+    "rank": 343,
+    "word": "båda",
+    "type": "pronoun/adjective",
+    "definition": "both"
+  },
+  {
+    "rank": 344,
+    "word": "grupp",
+    "type": "noun",
+    "definition": "group"
+  },
+  {
+    "rank": 345,
+    "word": "prata",
+    "type": "verb",
+    "definition": "to talk, chat"
+  },
+  {
+    "rank": 346,
+    "word": "ibland",
+    "type": "adverb",
+    "definition": "sometimes"
+  },
+  {
+    "rank": 347,
+    "word": "extra",
+    "type": "adjective/adverb",
+    "definition": "extra"
+  },
+  {
+    "rank": 348,
+    "word": "situation",
+    "type": "noun",
+    "definition": "situation"
+  },
+  {
+    "rank": 349,
+    "word": "mat",
+    "type": "noun",
+    "definition": "food"
+  },
+  {
+    "rank": 350,
+    "word": "tydlig",
+    "type": "adjective",
+    "definition": "clear, distinct, evident"
+  },
+  {
+    "rank": 351,
+    "word": "sluta",
+    "type": "verb",
+    "definition": "to stop, end, quit"
+  },
+  {
+    "rank": 352,
+    "word": "typ",
+    "type": "noun",
+    "definition": "type, kind, sort"
+  },
+  {
+    "rank": 353,
+    "word": "hund",
+    "type": "noun",
+    "definition": "dog"
+  },
+  {
+    "rank": 354,
+    "word": "full",
+    "type": "adjective",
+    "definition": "full, drunk"
+  },
+  {
+    "rank": 355,
+    "word": "ja",
+    "type": "interjection",
+    "definition": "yes"
+  },
+  {
+    "rank": 356,
+    "word": "förslag",
+    "type": "noun",
+    "definition": "proposal, suggestion"
+  },
+  {
+    "rank": 357,
+    "word": "utveckling",
+    "type": "noun",
+    "definition": "development, progress"
+  },
+  {
+    "rank": 358,
+    "word": "ekonomisk",
+    "type": "adjective",
+    "definition": "economic, financial"
+  },
+  {
+    "rank": 359,
+    "word": "region",
+    "type": "noun",
+    "definition": "region"
+  },
+  {
+    "rank": 360,
+    "word": "ihop",
+    "type": "adverb",
+    "definition": "together"
+  },
+  {
+    "rank": 361,
+    "word": "klara",
+    "type": "verb/adjective",
+    "definition": "to manage, cope, clarify / clear, ready, completed"
+  },
+  {
+    "rank": 362,
+    "word": "namn",
+    "type": "noun",
+    "definition": "name"
+  },
+  {
+    "rank": 363,
+    "word": "starta",
+    "type": "verb",
+    "definition": "to start, begin"
+  },
+  {
+    "rank": 364,
+    "word": "Malmö",
+    "type": "proper noun",
+    "definition": "Malmö [city]"
+  },
+  {
+    "rank": 365,
+    "word": "skicka",
+    "type": "verb",
+    "definition": "to send"
+  },
+  {
+    "rank": 366,
+    "word": "förstå",
+    "type": "verb",
+    "definition": "to understand"
+  },
+  {
+    "rank": 367,
+    "word": "bo",
+    "type": "verb/noun",
+    "definition": "to live, reside / nest, dwelling"
+  },
+  {
+    "rank": 368,
+    "word": "nå",
+    "type": "verb",
+    "definition": "to reach, attain"
+  },
+  {
+    "rank": 369,
+    "word": "rolig",
+    "type": "adjective",
+    "definition": "fun, funny, amusing"
+  },
+  {
+    "rank": 370,
+    "word": "utveckla",
+    "type": "verb",
+    "definition": "to develop, evolve"
+  },
+  {
+    "rank": 371,
+    "word": "titta",
+    "type": "verb",
+    "definition": "to look, watch"
+  },
+  {
+    "rank": 372,
+    "word": "endast",
+    "type": "adverb",
+    "definition": "only, solely"
+  },
+  {
+    "rank": 373,
+    "word": "behov",
+    "type": "noun",
+    "definition": "need, requirement"
+  },
+  {
+    "rank": 374,
+    "word": "stöd",
+    "type": "noun",
+    "definition": "support, aid"
+  },
+  {
+    "rank": 375,
+    "word": "framför",
+    "type": "preposition/adverb",
+    "definition": "in front of, before / ahead"
+  },
+  {
+    "rank": 376,
+    "word": "tio",
+    "type": "numeral",
+    "definition": "ten"
+  },
+  {
+    "rank": 377,
+    "word": "drabba",
+    "type": "verb",
+    "definition": "to affect negatively, strike, hit"
+  },
+  {
+    "rank": 378,
+    "word": "fel",
+    "type": "adjective/noun/adverb",
+    "definition": "wrong, incorrect / fault, error / wrongly"
+  },
+  {
+    "rank": 379,
+    "word": "heller",
+    "type": "adverb",
+    "definition": "either [in negative constructions]"
+  },
+  {
+    "rank": 380,
+    "word": "myndighet",
+    "type": "noun",
+    "definition": "authority, agency"
+  },
+  {
+    "rank": 381,
+    "word": "miljard",
+    "type": "noun",
+    "definition": "billion [10^9]"
+  },
+  {
+    "rank": 382,
+    "word": "sjukhus",
+    "type": "noun",
+    "definition": "hospital"
+  },
+  {
+    "rank": 383,
+    "word": "sex",
+    "type": "numeral",
+    "definition": "six"
+  },
+  {
+    "rank": 384,
+    "word": "positiv",
+    "type": "adjective",
+    "definition": "positive"
+  },
+  {
+    "rank": 385,
+    "word": "mamma",
+    "type": "noun",
+    "definition": "mom, mum, mother"
+  },
+  {
+    "rank": 386,
+    "word": "Göteborg",
+    "type": "proper noun",
+    "definition": "Gothenburg [city]"
+  },
+  {
+    "rank": 387,
+    "word": "natt",
+    "type": "noun",
+    "definition": "night"
+  },
+  {
+    "rank": 388,
+    "word": "tala",
+    "type": "verb",
+    "definition": "to speak, talk"
+  },
+  {
+    "rank": 389,
+    "word": "söndag",
+    "type": "noun",
+    "definition": "Sunday"
+  },
+  {
+    "rank": 390,
+    "word": "social",
+    "type": "adjective",
+    "definition": "social"
+  },
+  {
+    "rank": 391,
+    "word": "träffa",
+    "type": "verb",
+    "definition": "to meet, hit"
+  },
+  {
+    "rank": 392,
+    "word": "enda",
+    "type": "adjective",
+    "definition": "only, single, sole"
+  },
+  {
+    "rank": 393,
+    "word": "öppen",
+    "type": "adjective",
+    "definition": "open"
+  },
+  {
+    "rank": 394,
+    "word": "höst",
+    "type": "noun",
+    "definition": "autumn, fall"
+  },
+  {
+    "rank": 395,
+    "word": "död",
+    "type": "noun/adjective",
+    "definition": "death / dead"
+  },
+  {
+    "rank": 396,
+    "word": "mars",
+    "type": "noun",
+    "definition": "March"
+  },
+  {
+    "rank": 397,
+    "word": "klocka",
+    "type": "noun",
+    "definition": "clock, watch, bell"
+  },
+  {
+    "rank": 398,
+    "word": "dryg",
+    "type": "adjective",
+    "definition": "just over, ample / tiresome, arrogant"
+  },
+  {
+    "rank": 399,
+    "word": "meddela",
+    "type": "verb",
+    "definition": "to inform, announce, communicate"
+  },
+  {
+    "rank": 400,
+    "word": "sakna",
+    "type": "verb",
+    "definition": "to miss, lack"
+  },
+  {
+    "rank": 401,
+    "word": "var",
+    "type": "adverb/pronoun",
+    "definition": "where / each"
+  },
+  {
+    "rank": 402,
+    "word": "framtid",
+    "type": "noun",
+    "definition": "future"
+  },
+  {
+    "rank": 403,
+    "word": "klubb",
+    "type": "noun",
+    "definition": "club"
+  },
+  {
+    "rank": 404,
+    "word": "genomföra",
+    "type": "verb",
+    "definition": "to carry out, implement, execute"
+  },
+  {
+    "rank": 405,
+    "word": "planera",
+    "type": "verb",
+    "definition": "to plan"
+  },
+  {
+    "rank": 406,
+    "word": "äta",
+    "type": "verb",
+    "definition": "to eat"
+  },
+  {
+    "rank": 407,
+    "word": "ca",
+    "type": "adverb",
+    "definition": "approx., about [abbr. for cirka]"
+  },
+  {
+    "rank": 408,
+    "word": "växa",
+    "type": "verb",
+    "definition": "to grow"
+  },
+  {
+    "rank": 409,
+    "word": "jämföra",
+    "type": "verb",
+    "definition": "to compare"
+  },
+  {
+    "rank": 410,
+    "word": "bruka",
+    "type": "verb",
+    "definition": "to usually do, be accustomed to / to use, cultivate"
+  },
+  {
+    "rank": 411,
+    "word": "varandra",
+    "type": "pronoun",
+    "definition": "each other, one another"
+  },
+  {
+    "rank": 412,
+    "word": "egentligen",
+    "type": "adverb",
+    "definition": "actually, really"
+  },
+  {
+    "rank": 413,
+    "word": "samla",
+    "type": "verb",
+    "definition": "to collect, gather, assemble"
+  },
+  {
+    "rank": 414,
+    "word": "fredag",
+    "type": "noun",
+    "definition": "Friday"
+  },
+  {
+    "rank": 415,
+    "word": "tur",
+    "type": "noun",
+    "definition": "luck / trip, tour, turn"
+  },
+  {
+    "rank": 416,
+    "word": "politisk",
+    "type": "adjective",
+    "definition": "political"
+  },
+  {
+    "rank": 417,
+    "word": "spelare",
+    "type": "noun",
+    "definition": "player"
+  },
+  {
+    "rank": 418,
+    "word": "tack",
+    "type": "noun/interjection",
+    "definition": "thanks, thank you"
+  },
+  {
+    "rank": 419,
+    "word": "val",
+    "type": "noun",
+    "definition": "choice, election, option / whale"
+  },
+  {
+    "rank": 420,
+    "word": "läge",
+    "type": "noun",
+    "definition": "position, situation, location, mode"
+  },
+  {
+    "rank": 421,
+    "word": "produkt",
+    "type": "noun",
+    "definition": "product"
+  },
+  {
+    "rank": 422,
+    "word": "president",
+    "type": "noun",
+    "definition": "president"
+  },
+  {
+    "rank": 423,
+    "word": "räkna",
+    "type": "verb",
+    "definition": "to count, calculate, consider"
+  },
+  {
+    "rank": 424,
+    "word": "därmed",
+    "type": "adverb",
+    "definition": "thereby, thus, with that"
+  },
+  {
+    "rank": 425,
+    "word": "ord",
+    "type": "noun",
+    "definition": "word"
+  },
+  {
+    "rank": 426,
+    "word": "möta",
+    "type": "verb",
+    "definition": "to meet, encounter"
+  },
+  {
+    "rank": 427,
+    "word": "röra",
+    "type": "verb/noun",
+    "definition": "to move, touch, stir / mess, muddle, pipe"
+  },
+  {
+    "rank": 428,
+    "word": "cirka",
+    "type": "adverb",
+    "definition": "about, approximately"
+  },
+  {
+    "rank": 429,
+    "word": "lördag",
+    "type": "noun",
+    "definition": "Saturday"
+  },
+  {
+    "rank": 430,
+    "word": "vem",
+    "type": "pronoun",
+    "definition": "who, whom"
+  },
+  {
+    "rank": 431,
+    "word": "spel",
+    "type": "noun",
+    "definition": "game, play"
+  },
+  {
+    "rank": 432,
+    "word": "dela",
+    "type": "verb",
+    "definition": "to share, divide"
+  },
+  {
+    "rank": 433,
+    "word": "stänga",
+    "type": "verb",
+    "definition": "to close, shut"
+  },
+  {
+    "rank": 434,
+    "word": "rum",
+    "type": "noun",
+    "definition": "room, space"
+  },
+  {
+    "rank": 435,
+    "word": "testa",
+    "type": "verb",
+    "definition": "to test, try"
+  },
+  {
+    "rank": 436,
+    "word": "torsdag",
+    "type": "noun",
+    "definition": "Thursday"
+  },
+  {
+    "rank": 437,
+    "word": "fylla",
+    "type": "verb",
+    "definition": "to fill, turn [age]"
+  },
+  {
+    "rank": 438,
+    "word": "vinna",
+    "type": "verb",
+    "definition": "to win"
+  },
+  {
+    "rank": 439,
+    "word": "politik",
+    "type": "noun",
+    "definition": "politics, policy"
+  },
+  {
+    "rank": 440,
+    "word": "vacker",
+    "type": "adjective",
+    "definition": "beautiful, pretty"
+  },
+  {
+    "rank": 441,
+    "word": "ansvar",
+    "type": "noun",
+    "definition": "responsibility"
+  },
+  {
+    "rank": 442,
+    "word": "tag",
+    "type": "noun",
+    "definition": "hold, grip / while, bit [time]"
+  },
+  {
+    "rank": 443,
+    "word": "måndag",
+    "type": "noun",
+    "definition": "Monday"
+  },
+  {
+    "rank": 444,
+    "word": "krav",
+    "type": "noun",
+    "definition": "demand, requirement"
+  },
+  {
+    "rank": 445,
+    "word": "vård",
+    "type": "noun",
+    "definition": "care, nursing, healthcare"
+  },
+  {
+    "rank": 446,
+    "word": "anledning",
+    "type": "noun",
+    "definition": "reason, cause"
+  },
+  {
+    "rank": 447,
+    "word": "särskilt",
+    "type": "adverb",
+    "definition": "particularly, especially"
+  },
+  {
+    "rank": 448,
+    "word": "tvinga",
+    "type": "verb",
+    "definition": "to force, compel"
+  },
+  {
+    "rank": 449,
+    "word": "stanna",
+    "type": "verb",
+    "definition": "to stay, remain, stop"
+  },
+  {
+    "rank": 450,
+    "word": "speciell",
+    "type": "adjective",
+    "definition": "special, particular"
+  },
+  {
+    "rank": 451,
+    "word": "samband",
+    "type": "noun",
+    "definition": "connection, context, relation"
+  },
+  {
+    "rank": 452,
+    "word": "igenom",
+    "type": "preposition/adverb",
+    "definition": "through"
+  },
+  {
+    "rank": 453,
+    "word": "kontakt",
+    "type": "noun",
+    "definition": "contact"
+  },
+  {
+    "rank": 454,
+    "word": "tisdag",
+    "type": "noun",
+    "definition": "Tuesday"
+  },
+  {
+    "rank": 455,
+    "word": "massa",
+    "type": "noun",
+    "definition": "mass, lot, crowd"
+  },
+  {
+    "rank": 456,
+    "word": "åtgärd",
+    "type": "noun",
+    "definition": "action, measure, step"
+  },
+  {
+    "rank": 457,
+    "word": "dags",
+    "type": "noun/adverb",
+    "definition": "time [e.g., 'det är dags' - it's time]"
+  },
+  {
+    "rank": 458,
+    "word": "lyckas",
+    "type": "verb",
+    "definition": "to succeed, manage"
+  },
+  {
+    "rank": 459,
+    "word": "rapportera",
+    "type": "verb",
+    "definition": "to report"
+  },
+  {
+    "rank": 460,
+    "word": "möte",
+    "type": "noun",
+    "definition": "meeting, encounter"
+  },
+  {
+    "rank": 461,
+    "word": "hamna",
+    "type": "verb",
+    "definition": "to end up, land"
+  },
+  {
+    "rank": 462,
+    "word": "ens",
+    "type": "adverb",
+    "definition": "even / one's [genitive]"
+  },
+  {
+    "rank": 463,
+    "word": "maj",
+    "type": "noun",
+    "definition": "May"
+  },
+  {
+    "rank": 464,
+    "word": "musik",
+    "type": "noun",
+    "definition": "music"
+  },
+  {
+    "rank": 465,
+    "word": "glad",
+    "type": "adjective",
+    "definition": "happy, glad"
+  },
+  {
+    "rank": 466,
+    "word": "medlem",
+    "type": "noun",
+    "definition": "member"
+  },
+  {
+    "rank": 467,
+    "word": "steg",
+    "type": "noun",
+    "definition": "step"
+  },
+  {
+    "rank": 468,
+    "word": "svara",
+    "type": "verb",
+    "definition": "to answer, reply"
+  },
+  {
+    "rank": 469,
+    "word": "bidra",
+    "type": "verb",
+    "definition": "to contribute"
+  },
+  {
+    "rank": 470,
+    "word": "roll",
+    "type": "noun",
+    "definition": "role, part"
+  },
+  {
+    "rank": 471,
+    "word": "färg",
+    "type": "noun",
+    "definition": "color, paint"
+  },
+  {
+    "rank": 472,
+    "word": "april",
+    "type": "noun",
+    "definition": "April"
+  },
+  {
+    "rank": 473,
+    "word": "onsdag",
+    "type": "noun",
+    "definition": "Wednesday"
+  },
+  {
+    "rank": 474,
+    "word": "amerikansk",
+    "type": "adjective",
+    "definition": "American"
+  },
+  {
+    "rank": 475,
+    "word": "ned",
+    "type": "adverb",
+    "definition": "down"
+  },
+  {
+    "rank": 476,
+    "word": "ingå",
+    "type": "verb",
+    "definition": "to be included, form part of, enter into"
+  },
+  {
+    "rank": 477,
+    "word": "juni",
+    "type": "noun",
+    "definition": "June"
+  },
+  {
+    "rank": 478,
+    "word": "chans",
+    "type": "noun",
+    "definition": "chance, opportunity"
+  },
+  {
+    "rank": 479,
+    "word": "tävling",
+    "type": "noun",
+    "definition": "competition, contest"
+  },
+  {
+    "rank": 480,
+    "word": "period",
+    "type": "noun",
+    "definition": "period"
+  },
+  {
+    "rank": 481,
+    "word": "häst",
+    "type": "noun",
+    "definition": "horse"
+  },
+  {
+    "rank": 482,
+    "word": "gilla",
+    "type": "verb",
+    "definition": "to like"
+  },
+  {
+    "rank": 483,
+    "word": "fantastisk",
+    "type": "adjective",
+    "definition": "fantastic, amazing"
+  },
+  {
+    "rank": 484,
+    "word": "internationell",
+    "type": "adjective",
+    "definition": "international"
+  },
+  {
+    "rank": 485,
+    "word": "patient",
+    "type": "noun",
+    "definition": "patient"
+  },
+  {
+    "rank": 486,
+    "word": "konstatera",
+    "type": "verb",
+    "definition": "to ascertain, establish, state"
+  },
+  {
+    "rank": 487,
+    "word": "Europa",
+    "type": "proper noun",
+    "definition": "Europe"
+  },
+  {
+    "rank": 488,
+    "word": "ljus",
+    "type": "noun/adjective",
+    "definition": "light / bright, light-colored"
+  },
+  {
+    "rank": 489,
+    "word": "främst",
+    "type": "adverb/adjective",
+    "definition": "primarily, mainly, first / foremost, primary"
+  },
+  {
+    "rank": 490,
+    "word": "känsla",
+    "type": "noun",
+    "definition": "feeling, emotion, sense"
+  },
+  {
+    "rank": 491,
+    "word": "presentera",
+    "type": "verb",
+    "definition": "to present, introduce"
+  },
+  {
+    "rank": 492,
+    "word": "meter",
+    "type": "noun",
+    "definition": "meter, metre"
+  },
+  {
+    "rank": 493,
+    "word": "förälder",
+    "type": "noun",
+    "definition": "parent"
+  },
+  {
+    "rank": 494,
+    "word": "fri",
+    "type": "adjective",
+    "definition": "free"
+  },
+  {
+    "rank": 495,
+    "word": "ifrån",
+    "type": "preposition/adverb",
+    "definition": "from, away from"
+  },
+  {
+    "rank": 496,
+    "word": "vit",
+    "type": "adjective",
+    "definition": "white"
+  },
+  {
+    "rank": 497,
+    "word": "slag",
+    "type": "noun",
+    "definition": "type, kind / blow, stroke, battle"
+  },
+  {
+    "rank": 498,
+    "word": "byta",
+    "type": "verb",
+    "definition": "to change, exchange, switch"
+  },
+  {
+    "rank": 499,
+    "word": "driva",
+    "type": "verb",
+    "definition": "to drive, run, operate, drift"
+  },
+  {
+    "rank": 500,
+    "word": "januari",
+    "type": "noun",
+    "definition": "January"
+  },
+  {
+    "rank": 501,
+    "word": "marknad",
+    "type": "noun",
+    "definition": "market"
+  },
+  {
+    "rank": 502,
+    "word": "förening",
+    "type": "noun",
+    "definition": "association, society, club, union"
+  },
+  {
+    "rank": 503,
+    "word": "kraftig",
+    "type": "adjective",
+    "definition": "powerful, strong, heavy, severe"
+  },
+  {
+    "rank": 504,
+    "word": "sälja",
+    "type": "verb",
+    "definition": "to sell"
+  },
+  {
+    "rank": 505,
+    "word": "lägenhet",
+    "type": "noun",
+    "definition": "apartment, flat"
+  },
+  {
+    "rank": 506,
+    "word": "tyvärr",
+    "type": "adverb",
+    "definition": "unfortunately, sadly"
+  },
+  {
+    "rank": 507,
+    "word": "igår",
+    "type": "adverb",
+    "definition": "yesterday"
+  },
+  {
+    "rank": 508,
+    "word": "kul",
+    "type": "adjective",
+    "definition": "fun, enjoyable"
+  },
+  {
+    "rank": 509,
+    "word": "utbildning",
+    "type": "noun",
+    "definition": "education, training"
+  },
+  {
+    "rank": 510,
+    "word": "däremot",
+    "type": "adverb",
+    "definition": "however, on the other hand"
+  },
+  {
+    "rank": 511,
+    "word": "Anders",
+    "type": "proper noun",
+    "definition": "Anders [name]"
+  },
+  {
+    "rank": 512,
+    "word": "kris",
+    "type": "noun",
+    "definition": "crisis"
+  },
+  {
+    "rank": 513,
+    "word": "hotell",
+    "type": "noun",
+    "definition": "hotel"
+  },
+  {
+    "rank": 514,
+    "word": "Kina",
+    "type": "proper noun",
+    "definition": "China"
+  },
+  {
+    "rank": 515,
+    "word": "poäng",
+    "type": "noun",
+    "definition": "point, score"
+  },
+  {
+    "rank": 516,
+    "word": "misstänkt",
+    "type": "adjective/noun",
+    "definition": "suspected, suspicious / suspect"
+  },
+  {
+    "rank": 517,
+    "word": "uppge",
+    "type": "verb",
+    "definition": "to state, give [information], abandon"
+  },
+  {
+    "rank": 518,
+    "word": "anställd",
+    "type": "noun/adjective",
+    "definition": "employee / employed"
+  },
+  {
+    "rank": 519,
+    "word": "stat",
+    "type": "noun",
+    "definition": "state, government"
+  },
+  {
+    "rank": 520,
+    "word": "annars",
+    "type": "adverb",
+    "definition": "otherwise, else"
+  },
+  {
+    "rank": 521,
+    "word": "restaurang",
+    "type": "noun",
+    "definition": "restaurant"
+  },
+  {
+    "rank": 522,
+    "word": "lösning",
+    "type": "noun",
+    "definition": "solution"
+  },
+  {
+    "rank": 523,
+    "word": "morgon",
+    "type": "noun",
+    "definition": "morning"
+  },
+  {
+    "rank": 524,
+    "word": "butik",
+    "type": "noun",
+    "definition": "shop, store"
+  },
+  {
+    "rank": 525,
+    "word": "ändra",
+    "type": "verb",
+    "definition": "to change, alter"
+  },
+  {
+    "rank": 526,
+    "word": "september",
+    "type": "noun",
+    "definition": "September"
+  },
+  {
+    "rank": 527,
+    "word": "tillfälle",
+    "type": "noun",
+    "definition": "occasion, opportunity, chance, moment"
+  },
+  {
+    "rank": 528,
+    "word": "omkring",
+    "type": "adverb/preposition",
+    "definition": "around, about, approximately"
+  },
+  {
+    "rank": 529,
+    "word": "digital",
+    "type": "adjective",
+    "definition": "digital"
+  },
+  {
+    "rank": 530,
+    "word": "pappa",
+    "type": "noun",
+    "definition": "dad, father"
+  },
+  {
+    "rank": 531,
+    "word": "boende",
+    "type": "noun",
+    "definition": "housing, accommodation, residence"
+  },
+  {
+    "rank": 532,
+    "word": "delta",
+    "type": "verb",
+    "definition": "to participate, take part"
+  },
+  {
+    "rank": 533,
+    "word": "Johan",
+    "type": "proper noun",
+    "definition": "Johan [name]"
+  },
+  {
+    "rank": 534,
+    "word": "igång",
+    "type": "adverb",
+    "definition": "started, running, in progress"
+  },
+  {
+    "rank": 535,
+    "word": "släppa",
+    "type": "verb",
+    "definition": "to release, let go, drop"
+  },
+  {
+    "rank": 536,
+    "word": "kropp",
+    "type": "noun",
+    "definition": "body"
+  },
+  {
+    "rank": 537,
+    "word": "liksom",
+    "type": "preposition/adverb/conjunction",
+    "definition": "like, as, as well as, sort of"
+  },
+  {
+    "rank": 538,
+    "word": "skillnad",
+    "type": "noun",
+    "definition": "difference"
+  },
+  {
+    "rank": 539,
+    "word": "intresse",
+    "type": "noun",
+    "definition": "interest"
+  },
+  {
+    "rank": 540,
+    "word": "kyrka",
+    "type": "noun",
+    "definition": "church"
+  },
+  {
+    "rank": 541,
+    "word": "effekt",
+    "type": "noun",
+    "definition": "effect, impact"
+  },
+  {
+    "rank": 542,
+    "word": "blogg",
+    "type": "noun",
+    "definition": "blog"
+  },
+  {
+    "rank": 543,
+    "word": "besked",
+    "type": "noun",
+    "definition": "information, message, notice, decision"
+  },
+  {
+    "rank": 544,
+    "word": "tills",
+    "type": "conjunction/preposition",
+    "definition": "until"
+  },
+  {
+    "rank": 545,
+    "word": "exempelvis",
+    "type": "adverb",
+    "definition": "for example, for instance"
+  },
+  {
+    "rank": 546,
+    "word": "hemsida",
+    "type": "noun",
+    "definition": "website, homepage"
+  },
+  {
+    "rank": 547,
+    "word": "samarbete",
+    "type": "noun",
+    "definition": "cooperation, collaboration"
+  },
+  {
+    "rank": 548,
+    "word": "pågå",
+    "type": "verb",
+    "definition": "to be in progress, go on, continue"
+  },
+  {
+    "rank": 549,
+    "word": "träna",
+    "type": "verb",
+    "definition": "to train, practice, exercise"
+  },
+  {
+    "rank": 550,
+    "word": "därefter",
+    "type": "adverb",
+    "definition": "thereafter, after that"
+  },
+  {
+    "rank": 551,
+    "word": "vår",
+    "type": "noun/pronoun",
+    "definition": "spring [season] / our, ours [common gender]"
+  },
+  {
+    "rank": 552,
+    "word": "rad",
+    "type": "noun",
+    "definition": "row, line, series"
+  },
+  {
+    "rank": 553,
+    "word": "stoppa",
+    "type": "verb",
+    "definition": "to stop, put, stuff"
+  },
+  {
+    "rank": 554,
+    "word": "ren",
+    "type": "adjective",
+    "definition": "clean, pure"
+  },
+  {
+    "rank": 555,
+    "word": "besök",
+    "type": "noun",
+    "definition": "visit"
+  },
+  {
+    "rank": 556,
+    "word": "kunskap",
+    "type": "noun",
+    "definition": "knowledge"
+  },
+  {
+    "rank": 557,
+    "word": "perfekt",
+    "type": "adjective",
+    "definition": "perfect"
+  },
+  {
+    "rank": 558,
+    "word": "avsluta",
+    "type": "verb",
+    "definition": "to finish, end, conclude, terminate"
+  },
+  {
+    "rank": 559,
+    "word": "övrig",
+    "type": "adjective",
+    "definition": "other, remaining"
+  },
+  {
+    "rank": 560,
+    "word": "brott",
+    "type": "noun",
+    "definition": "crime, offense / fracture, break"
+  },
+  {
+    "rank": 561,
+    "word": "Andersson",
+    "type": "proper noun",
+    "definition": "Andersson [surname]"
+  },
+  {
+    "rank": 562,
+    "word": "dit",
+    "type": "adverb",
+    "definition": "there, thither [direction]"
+  },
+  {
+    "rank": 563,
+    "word": "heta",
+    "type": "verb",
+    "definition": "to be called, be named"
+  },
+  {
+    "rank": 564,
+    "word": "miljö",
+    "type": "noun",
+    "definition": "environment"
+  },
+  {
+    "rank": 565,
+    "word": "oktober",
+    "type": "noun",
+    "definition": "October"
+  },
+  {
+    "rank": 566,
+    "word": "trevlig",
+    "type": "adjective",
+    "definition": "nice, pleasant, enjoyable"
+  },
+  {
+    "rank": 567,
+    "word": "november",
+    "type": "noun",
+    "definition": "November"
+  },
+  {
+    "rank": 568,
+    "word": "känd",
+    "type": "adjective",
+    "definition": "known, famous"
+  },
+  {
+    "rank": 569,
+    "word": "betyda",
+    "type": "verb",
+    "definition": "to mean, signify"
+  },
+  {
+    "rank": 570,
+    "word": "augusti",
+    "type": "noun",
+    "definition": "August"
+  },
+  {
+    "rank": 571,
+    "word": "rapport",
+    "type": "noun",
+    "definition": "report"
+  },
+  {
+    "rank": 572,
+    "word": "tidning",
+    "type": "noun",
+    "definition": "newspaper, magazine"
+  },
+  {
+    "rank": 573,
+    "word": "alls",
+    "type": "adverb",
+    "definition": "at all"
+  },
+  {
+    "rank": 574,
+    "word": "december",
+    "type": "noun",
+    "definition": "December"
+  },
+  {
+    "rank": 575,
+    "word": "kolla",
+    "type": "verb",
+    "definition": "to check, look [colloquial]"
+  },
+  {
+    "rank": 576,
+    "word": "beskriva",
+    "type": "verb",
+    "definition": "to describe"
+  },
+  {
+    "rank": 577,
+    "word": "nej",
+    "type": "interjection",
+    "definition": "no"
+  },
+  {
+    "rank": 578,
+    "word": "uppdrag",
+    "type": "noun",
+    "definition": "assignment, mission, task"
+  },
+  {
+    "rank": 579,
+    "word": "gemensam",
+    "type": "adjective",
+    "definition": "common, joint, shared"
+  },
+  {
+    "rank": 580,
+    "word": "ordförande",
+    "type": "noun",
+    "definition": "chairman, chairperson, president"
+  },
+  {
+    "rank": 581,
+    "word": "inne",
+    "type": "adverb",
+    "definition": "in, inside, indoors"
+  },
+  {
+    "rank": 582,
+    "word": "älska",
+    "type": "verb",
+    "definition": "to love"
+  },
+  {
+    "rank": 583,
+    "word": "lösa",
+    "type": "verb",
+    "definition": "to solve, resolve, loosen"
+  },
+  {
+    "rank": 584,
+    "word": "o",
+    "type": "prefix",
+    "definition": "un-, in- [negation]"
+  },
+  {
+    "rank": 585,
+    "word": "normal",
+    "type": "adjective",
+    "definition": "normal"
+  },
+  {
+    "rank": 586,
+    "word": "tjänst",
+    "type": "noun",
+    "definition": "service, duty, position, favor"
+  },
+  {
+    "rank": 587,
+    "word": "hantera",
+    "type": "verb",
+    "definition": "to handle, manage, deal with"
+  },
+  {
+    "rank": 588,
+    "word": "sjuk",
+    "type": "adjective",
+    "definition": "sick, ill"
+  },
+  {
+    "rank": 589,
+    "word": "uppleva",
+    "type": "verb",
+    "definition": "to experience, perceive"
+  },
+  {
+    "rank": 590,
+    "word": "alternativ",
+    "type": "noun/adjective",
+    "definition": "alternative"
+  },
+  {
+    "rank": 591,
+    "word": "intressant",
+    "type": "adjective",
+    "definition": "interesting"
+  },
+  {
+    "rank": 592,
+    "word": "kostnad",
+    "type": "noun",
+    "definition": "cost, expense"
+  },
+  {
+    "rank": 593,
+    "word": "ungefär",
+    "type": "adverb",
+    "definition": "approximately, about"
+  },
+  {
+    "rank": 594,
+    "word": "bestå",
+    "type": "verb",
+    "definition": "to consist of, pass [test], endure"
+  },
+  {
+    "rank": 595,
+    "word": "förutsättning",
+    "type": "noun",
+    "definition": "condition, prerequisite, assumption"
+  },
+  {
+    "rank": 596,
+    "word": "nivå",
+    "type": "noun",
+    "definition": "level"
+  },
+  {
+    "rank": 597,
+    "word": "bank",
+    "type": "noun",
+    "definition": "bank [institution], bench"
+  },
+  {
+    "rank": 598,
+    "word": "varm",
+    "type": "adjective",
+    "definition": "warm, hot"
+  },
+  {
+    "rank": 599,
+    "word": "råd",
+    "type": "noun",
+    "definition": "advice, council / means, affordability"
+  },
+  {
+    "rank": 600,
+    "word": "allvarlig",
+    "type": "adjective",
+    "definition": "serious, severe"
+  },
+  {
+    "rank": 601,
+    "word": "härlig",
+    "type": "adjective",
+    "definition": "lovely, wonderful, delightful"
+  },
+  {
+    "rank": 602,
+    "word": "innehålla",
+    "type": "verb",
+    "definition": "to contain, include"
+  },
+  {
+    "rank": 603,
+    "word": "hittills",
+    "type": "adverb",
+    "definition": "so far, until now, hitherto"
+  },
+  {
+    "rank": 604,
+    "word": "besöka",
+    "type": "verb",
+    "definition": "to visit"
+  },
+  {
+    "rank": 605,
+    "word": "äga",
+    "type": "verb",
+    "definition": "to own, possess"
+  },
+  {
+    "rank": 606,
+    "word": "regel",
+    "type": "noun",
+    "definition": "rule, regulation"
+  },
+  {
+    "rank": 607,
+    "word": "stund",
+    "type": "noun",
+    "definition": "while, moment"
+  },
+  {
+    "rank": 608,
+    "word": "förlora",
+    "type": "verb",
+    "definition": "to lose"
+  },
+  {
+    "rank": 609,
+    "word": "tillgång",
+    "type": "noun",
+    "definition": "access, supply, asset"
+  },
+  {
+    "rank": 610,
+    "word": "besluta",
+    "type": "verb",
+    "definition": "to decide, resolve"
+  },
+  {
+    "rank": 611,
+    "word": "start",
+    "type": "noun",
+    "definition": "start, beginning"
+  },
+  {
+    "rank": 612,
+    "word": "ond",
+    "type": "adjective",
+    "definition": "evil, bad, painful"
+  },
+  {
+    "rank": 613,
+    "word": "text",
+    "type": "noun",
+    "definition": "text"
+  },
+  {
+    "rank": 614,
+    "word": "hinna",
+    "type": "verb",
+    "definition": "to have time, manage [to do something], reach"
+  },
+  {
+    "rank": 615,
+    "word": "föra",
+    "type": "verb",
+    "definition": "to bring, carry, lead, conduct, wage [war]"
+  },
+  {
+    "rank": 616,
+    "word": "håll",
+    "type": "noun",
+    "definition": "direction, way / hold, grip / stitch [pain]"
+  },
+  {
+    "rank": 617,
+    "word": "erfarenhet",
+    "type": "noun",
+    "definition": "experience"
+  },
+  {
+    "rank": 618,
+    "word": "februari",
+    "type": "noun",
+    "definition": "February"
+  },
+  {
+    "rank": 619,
+    "word": "system",
+    "type": "noun",
+    "definition": "system"
+  },
+  {
+    "rank": 620,
+    "word": "spår",
+    "type": "noun",
+    "definition": "track, trace, trail, footprint"
+  },
+  {
+    "rank": 621,
+    "word": "strax",
+    "type": "adverb",
+    "definition": "soon, shortly, right away, just"
+  },
+  {
+    "rank": 622,
+    "word": "bekräfta",
+    "type": "verb",
+    "definition": "to confirm, affirm"
+  },
+  {
+    "rank": 623,
+    "word": "ringa",
+    "type": "verb/adjective",
+    "definition": "to call, ring / small, minor, insignificant"
+  },
+  {
+    "rank": 624,
+    "word": "bestämma",
+    "type": "verb",
+    "definition": "to decide, determine"
+  },
+  {
+    "rank": 625,
+    "word": "hälsa",
+    "type": "noun/verb",
+    "definition": "health / to greet, say hello"
+  },
+  {
+    "rank": 626,
+    "word": "förutom",
+    "type": "preposition",
+    "definition": "except, besides, apart from"
+  },
+  {
+    "rank": 627,
+    "word": "sjukdom",
+    "type": "noun",
+    "definition": "disease, illness, sickness"
+  },
+  {
+    "rank": 628,
+    "word": "sju",
+    "type": "numeral",
+    "definition": "seven"
+  },
+  {
+    "rank": 629,
+    "word": "såväl",
+    "type": "conjunction",
+    "definition": "as well as, both [...and]"
+  },
+  {
+    "rank": 630,
+    "word": "insats",
+    "type": "noun",
+    "definition": "effort, contribution, stake, input"
+  },
+  {
+    "rank": 631,
+    "word": "utredning",
+    "type": "noun",
+    "definition": "investigation, inquiry, report"
+  },
+  {
+    "rank": 632,
+    "word": "träning",
+    "type": "noun",
+    "definition": "training, practice, exercise"
+  },
+  {
+    "rank": 633,
+    "word": "tanke",
+    "type": "noun",
+    "definition": "thought, idea"
+  },
+  {
+    "rank": 634,
+    "word": "organisation",
+    "type": "noun",
+    "definition": "organization"
+  },
+  {
+    "rank": 635,
+    "word": "skydda",
+    "type": "verb",
+    "definition": "to protect, guard"
+  },
+  {
+    "rank": 636,
+    "word": "kommande",
+    "type": "adjective",
+    "definition": "coming, next, future"
+  },
+  {
+    "rank": 637,
+    "word": "mängd",
+    "type": "noun",
+    "definition": "amount, quantity, crowd, set [math]"
+  },
+  {
+    "rank": 638,
+    "word": "stiga",
+    "type": "verb",
+    "definition": "to rise, climb, increase"
+  },
+  {
+    "rank": 639,
+    "word": "publik",
+    "type": "noun",
+    "definition": "audience, public"
+  },
+  {
+    "rank": 640,
+    "word": "rak",
+    "type": "adjective",
+    "definition": "straight, direct"
+  },
+  {
+    "rank": 641,
+    "word": "material",
+    "type": "noun",
+    "definition": "material"
+  },
+  {
+    "rank": 642,
+    "word": "förklara",
+    "type": "verb",
+    "definition": "to explain, declare"
+  },
+  {
+    "rank": 643,
+    "word": "parti",
+    "type": "noun",
+    "definition": "party [political], batch, lot, part"
+  },
+  {
+    "rank": 644,
+    "word": "bero",
+    "type": "verb",
+    "definition": "to depend [on]"
+  },
+  {
+    "rank": 645,
+    "word": "halv",
+    "type": "adjective/adverb",
+    "definition": "half"
+  },
+  {
+    "rank": 646,
+    "word": "skog",
+    "type": "noun",
+    "definition": "forest, wood"
+  },
+  {
+    "rank": 647,
+    "word": "central",
+    "type": "adjective",
+    "definition": "central"
+  },
+  {
+    "rank": 648,
+    "word": "projekt",
+    "type": "noun",
+    "definition": "project"
+  },
+  {
+    "rank": 649,
+    "word": "siffra",
+    "type": "noun",
+    "definition": "figure, number, digit"
+  },
+  {
+    "rank": 650,
+    "word": "gräns",
+    "type": "noun",
+    "definition": "border, boundary, limit"
+  },
+  {
+    "rank": 651,
+    "word": "modell",
+    "type": "noun",
+    "definition": "model"
+  },
+  {
+    "rank": 652,
+    "word": "kosta",
+    "type": "verb",
+    "definition": "to cost"
+  },
+  {
+    "rank": 653,
+    "word": "be",
+    "type": "verb",
+    "definition": "to ask, request, pray"
+  },
+  {
+    "rank": 654,
+    "word": "ej",
+    "type": "adverb/particle",
+    "definition": "not [formal]"
+  },
+  {
+    "rank": 655,
+    "word": "län",
+    "type": "noun",
+    "definition": "county"
+  },
+  {
+    "rank": 656,
+    "word": "inlägg",
+    "type": "noun",
+    "definition": "post [online], contribution, insert, comment"
+  },
+  {
+    "rank": 657,
+    "word": "djup",
+    "type": "adjective",
+    "definition": "deep"
+  },
+  {
+    "rank": 658,
+    "word": "fokus",
+    "type": "noun",
+    "definition": "focus"
+  },
+  {
+    "rank": 659,
+    "word": "djur",
+    "type": "noun",
+    "definition": "animal"
+  },
+  {
+    "rank": 660,
+    "word": "önska",
+    "type": "verb",
+    "definition": "to wish, desire"
+  },
+  {
+    "rank": 661,
+    "word": "ena",
+    "type": "adjective/pronoun",
+    "definition": "the one [of two]"
+  },
+  {
+    "rank": 662,
+    "word": "kurs",
+    "type": "noun",
+    "definition": "course, direction, exchange rate"
+  },
+  {
+    "rank": 663,
+    "word": "kritik",
+    "type": "noun",
+    "definition": "criticism"
+  },
+  {
+    "rank": 664,
+    "word": "privat",
+    "type": "adjective",
+    "definition": "private"
+  },
+  {
+    "rank": 665,
+    "word": "bostad",
+    "type": "noun",
+    "definition": "housing, residence, dwelling"
+  },
+  {
+    "rank": 666,
+    "word": "Skåne",
+    "type": "proper noun",
+    "definition": "Scania [county]"
+  },
+  {
+    "rank": 667,
+    "word": "Peter",
+    "type": "proper noun",
+    "definition": "Peter [name]"
+  },
+  {
+    "rank": 668,
+    "word": "mycken",
+    "type": "adjective/pronoun",
+    "definition": "much [archaic/formal, common gender]"
+  },
+  {
+    "rank": 669,
+    "word": "klass",
+    "type": "noun",
+    "definition": "class, grade"
+  },
+  {
+    "rank": 670,
+    "word": "juli",
+    "type": "noun",
+    "definition": "July"
+  },
+  {
+    "rank": 671,
+    "word": "ledning",
+    "type": "noun",
+    "definition": "management, leadership / pipe, wire, lead"
+  },
+  {
+    "rank": 672,
+    "word": "nöjd",
+    "type": "adjective",
+    "definition": "satisfied, pleased, content"
+  },
+  {
+    "rank": 673,
+    "word": "vända",
+    "type": "verb",
+    "definition": "to turn, reverse"
+  },
+  {
+    "rank": 674,
+    "word": "förändring",
+    "type": "noun",
+    "definition": "change, alteration"
+  },
+  {
+    "rank": 675,
+    "word": "riskera",
+    "type": "verb",
+    "definition": "to risk"
+  },
+  {
+    "rank": 676,
+    "word": "aktiv",
+    "type": "adjective",
+    "definition": "active"
+  },
+  {
+    "rank": 677,
+    "word": "höja",
+    "type": "verb",
+    "definition": "to raise, increase, heighten"
+  },
+  {
+    "rank": 678,
+    "word": "personlig",
+    "type": "adjective",
+    "definition": "personal"
+  },
+  {
+    "rank": 679,
+    "word": "liknande",
+    "type": "adjective",
+    "definition": "similar, like"
+  },
+  {
+    "rank": 680,
+    "word": "förbättra",
+    "type": "verb",
+    "definition": "to improve, enhance"
+  },
+  {
+    "rank": 681,
+    "word": "underbar",
+    "type": "adjective",
+    "definition": "wonderful, lovely"
+  },
+  {
+    "rank": 682,
+    "word": "förändra",
+    "type": "verb",
+    "definition": "to change, alter, modify"
+  },
+  {
+    "rank": 683,
+    "word": "åtta",
+    "type": "numeral",
+    "definition": "eight"
+  },
+  {
+    "rank": 684,
+    "word": "självklar",
+    "type": "adjective",
+    "definition": "obvious, self-evident, natural"
+  },
+  {
+    "rank": 685,
+    "word": "rest",
+    "type": "noun",
+    "definition": "rest, remainder"
+  },
+  {
+    "rank": 686,
+    "word": "bred",
+    "type": "adjective",
+    "definition": "wide, broad"
+  },
+  {
+    "rank": 687,
+    "word": "chef",
+    "type": "noun",
+    "definition": "manager, boss, head, chief"
+  },
+  {
+    "rank": 688,
+    "word": "räcka",
+    "type": "verb",
+    "definition": "to be enough, suffice / to reach, pass, hand"
+  },
+  {
+    "rank": 689,
+    "word": "otrolig",
+    "type": "adjective",
+    "definition": "incredible, unbelievable"
+  },
+  {
+    "rank": 690,
+    "word": "hämta",
+    "type": "verb",
+    "definition": "to fetch, get, retrieve, pick up"
+  },
+  {
+    "rank": 691,
+    "word": "utföra",
+    "type": "verb",
+    "definition": "to perform, carry out, execute"
+  },
+  {
+    "rank": 692,
+    "word": "oavsett",
+    "type": "preposition/adverb",
+    "definition": "regardless of, irrespective of"
+  },
+  {
+    "rank": 693,
+    "word": "fatta",
+    "type": "verb",
+    "definition": "to grasp, understand, make [a decision], catch"
+  },
+  {
+    "rank": 694,
+    "word": "döma",
+    "type": "verb",
+    "definition": "to judge, sentence, condemn"
+  },
+  {
+    "rank": 695,
+    "word": "borta",
+    "type": "adverb",
+    "definition": "away, gone"
+  },
+  {
+    "rank": 696,
+    "word": "avtal",
+    "type": "noun",
+    "definition": "agreement, contract, deal"
+  },
+  {
+    "rank": 697,
+    "word": "grov",
+    "type": "adjective",
+    "definition": "coarse, rough / serious, gross [crime]"
+  },
+  {
+    "rank": 698,
+    "word": "mark",
+    "type": "noun",
+    "definition": "ground, land, soil"
+  },
+  {
+    "rank": 699,
+    "word": "betydlig",
+    "type": "adjective",
+    "definition": "significant, considerable"
+  },
+  {
+    "rank": 700,
+    "word": "ålder",
+    "type": "noun",
+    "definition": "age"
+  },
+  {
+    "rank": 701,
+    "word": "kr",
+    "type": "noun",
+    "definition": "SEK [abbr. for kronor, currency]"
+  },
+  {
+    "rank": 702,
+    "word": "kontakta",
+    "type": "verb",
+    "definition": "to contact"
+  },
+  {
+    "rank": 703,
+    "word": "införa",
+    "type": "verb",
+    "definition": "to introduce, implement, import"
+  },
+  {
+    "rank": 704,
+    "word": "kvartal",
+    "type": "noun",
+    "definition": "quarter [of year, hour]"
+  },
+  {
+    "rank": 705,
+    "word": "kraft",
+    "type": "noun",
+    "definition": "force, power, strength"
+  },
+  {
+    "rank": 706,
+    "word": "spännande",
+    "type": "adjective",
+    "definition": "exciting, thrilling"
+  },
+  {
+    "rank": 707,
+    "word": "huvud",
+    "type": "noun",
+    "definition": "head, main part"
+  },
+  {
+    "rank": 708,
+    "word": "sol",
+    "type": "noun",
+    "definition": "sun"
+  },
+  {
+    "rank": 709,
+    "word": "röst",
+    "type": "noun",
+    "definition": "voice, vote"
+  },
+  {
+    "rank": 710,
+    "word": "Anna",
+    "type": "proper noun",
+    "definition": "Anna [name]"
+  },
+  {
+    "rank": 711,
+    "word": "må",
+    "type": "verb",
+    "definition": "may, might / to feel [well/ill]"
+  },
+  {
+    "rank": 712,
+    "word": "aktivitet",
+    "type": "noun",
+    "definition": "activity"
+  },
+  {
+    "rank": 713,
+    "word": "leverera",
+    "type": "verb",
+    "definition": "to deliver"
+  },
+  {
+    "rank": 714,
+    "word": "fort",
+    "type": "adverb",
+    "definition": "fast, quickly"
+  },
+  {
+    "rank": 715,
+    "word": "tillräcklig",
+    "type": "adjective",
+    "definition": "sufficient, adequate, enough"
+  },
+  {
+    "rank": 716,
+    "word": "undvika",
+    "type": "verb",
+    "definition": "to avoid, evade"
+  },
+  {
+    "rank": 717,
+    "word": "aktuell",
+    "type": "adjective",
+    "definition": "current, relevant, topical"
+  },
+  {
+    "rank": 718,
+    "word": "tappa",
+    "type": "verb",
+    "definition": "to drop, lose"
+  },
+  {
+    "rank": 719,
+    "word": "finna",
+    "type": "verb",
+    "definition": "to find, discover [more formal than hitta]"
+  },
+  {
+    "rank": 720,
+    "word": "koppla",
+    "type": "verb",
+    "definition": "to connect, link, couple / relax [koppla av]"
+  },
+  {
+    "rank": 721,
+    "word": "sova",
+    "type": "verb",
+    "definition": "to sleep"
+  },
+  {
+    "rank": 722,
+    "word": "nämligen",
+    "type": "adverb",
+    "definition": "namely, you see, that is to say"
+  },
+  {
+    "rank": 723,
+    "word": "sprida",
+    "type": "verb",
+    "definition": "to spread, distribute"
+  },
+  {
+    "rank": 724,
+    "word": "lärare",
+    "type": "noun",
+    "definition": "teacher"
+  },
+  {
+    "rank": 725,
+    "word": "offentlig",
+    "type": "adjective",
+    "definition": "public, official"
+  },
+  {
+    "rank": 726,
+    "word": "samtal",
+    "type": "noun",
+    "definition": "conversation, call"
+  },
+  {
+    "rank": 727,
+    "word": "Johansson",
+    "type": "proper noun",
+    "definition": "Johansson [surname]"
+  },
+  {
+    "rank": 728,
+    "word": "syfte",
+    "type": "noun",
+    "definition": "purpose, aim, objective"
+  },
+  {
+    "rank": 729,
+    "word": "eventuell",
+    "type": "adjective",
+    "definition": "possible, potential, eventual"
+  },
+  {
+    "rank": 730,
+    "word": "beroende",
+    "type": "adjective/noun",
+    "definition": "dependent / dependence, addiction"
+  },
+  {
+    "rank": 731,
+    "word": "tuff",
+    "type": "adjective",
+    "definition": "tough, cool, hard"
+  },
+  {
+    "rank": 732,
+    "word": "lyssna",
+    "type": "verb",
+    "definition": "to listen"
+  },
+  {
+    "rank": 733,
+    "word": "nationell",
+    "type": "adjective",
+    "definition": "national"
+  },
+  {
+    "rank": 734,
+    "word": "allmän",
+    "type": "adjective",
+    "definition": "public, general, common"
+  },
+  {
+    "rank": 735,
+    "word": "vän",
+    "type": "noun",
+    "definition": "friend"
+  },
+  {
+    "rank": 736,
+    "word": "fira",
+    "type": "verb",
+    "definition": "to celebrate"
+  },
+  {
+    "rank": 737,
+    "word": "brist",
+    "type": "noun",
+    "definition": "lack, shortage, deficiency"
+  },
+  {
+    "rank": 738,
+    "word": "utifrån",
+    "type": "preposition/adverb",
+    "definition": "from outside, based on"
+  },
+  {
+    "rank": 739,
+    "word": "alldeles",
+    "type": "adverb",
+    "definition": "completely, quite, just, absolutely"
+  },
+  {
+    "rank": 740,
+    "word": "absolut",
+    "type": "adverb/adjective",
+    "definition": "absolutely / absolute"
+  },
+  {
+    "rank": 741,
+    "word": "enskild",
+    "type": "adjective",
+    "definition": "individual, private, separate"
+  },
+  {
+    "rank": 742,
+    "word": "Stefan",
+    "type": "proper noun",
+    "definition": "Stefan [name]"
+  },
+  {
+    "rank": 743,
+    "word": "teknik",
+    "type": "noun",
+    "definition": "technology, technique"
+  },
+  {
+    "rank": 744,
+    "word": "bjuda",
+    "type": "verb",
+    "definition": "to invite, offer, treat"
+  },
+  {
+    "rank": 745,
+    "word": "gott",
+    "type": "adverb/adjective",
+    "definition": "well / good, tasty [neuter]"
+  },
+  {
+    "rank": 746,
+    "word": "kontroll",
+    "type": "noun",
+    "definition": "control, check"
+  },
+  {
+    "rank": 747,
+    "word": "kommentar",
+    "type": "noun",
+    "definition": "comment"
+  },
+  {
+    "rank": 748,
+    "word": "respektive",
+    "type": "adverb/adjective",
+    "definition": "respectively / respective"
+  },
+  {
+    "rank": 749,
+    "word": "knappt",
+    "type": "adverb",
+    "definition": "hardly, barely, scarcely"
+  },
+  {
+    "rank": 750,
+    "word": "rädda",
+    "type": "verb",
+    "definition": "to save, rescue"
+  },
+  {
+    "rank": 751,
+    "word": "affär",
+    "type": "noun",
+    "definition": "business, shop, store, affair, deal"
+  },
+  {
+    "rank": 752,
+    "word": "allra",
+    "type": "adverb",
+    "definition": "very, most of all [intensifier before superlative]"
+  },
+  {
+    "rank": 753,
+    "word": "snygg",
+    "type": "adjective",
+    "definition": "handsome, good-looking, stylish, neat"
+  },
+  {
+    "rank": 754,
+    "word": "född",
+    "type": "adjective",
+    "definition": "born"
+  },
+  {
+    "rank": 755,
+    "word": "grön",
+    "type": "adjective",
+    "definition": "green"
+  },
+  {
+    "rank": 756,
+    "word": "ungdom",
+    "type": "noun",
+    "definition": "youth, young person"
+  },
+  {
+    "rank": 757,
+    "word": "negativ",
+    "type": "adjective",
+    "definition": "negative"
+  },
+  {
+    "rank": 758,
+    "word": "tips",
+    "type": "noun",
+    "definition": "tip, hint"
+  },
+  {
+    "rank": 759,
+    "word": "framåt",
+    "type": "adverb",
+    "definition": "forward, ahead"
+  },
+  {
+    "rank": 760,
+    "word": "Norge",
+    "type": "proper noun",
+    "definition": "Norway"
+  },
+  {
+    "rank": 761,
+    "word": "son",
+    "type": "noun",
+    "definition": "son"
+  },
+  {
+    "rank": 762,
+    "word": "relation",
+    "type": "noun",
+    "definition": "relation, relationship"
+  },
+  {
+    "rank": 763,
+    "word": "buss",
+    "type": "noun",
+    "definition": "bus"
+  },
+  {
+    "rank": 764,
+    "word": "försök",
+    "type": "noun",
+    "definition": "attempt, try, experiment"
+  },
+  {
+    "rank": 765,
+    "word": "rikta",
+    "type": "verb",
+    "definition": "to direct, aim, point"
+  },
+  {
+    "rank": 766,
+    "word": "storlek",
+    "type": "noun",
+    "definition": "size"
+  },
+  {
+    "rank": 767,
+    "word": "iväg",
+    "type": "adverb",
+    "definition": "away, off"
+  },
+  {
+    "rank": 768,
+    "word": "global",
+    "type": "adjective",
+    "definition": "global"
+  },
+  {
+    "rank": 769,
+    "word": "svart",
+    "type": "adjective",
+    "definition": "black"
+  },
+  {
+    "rank": 770,
+    "word": "försäljning",
+    "type": "noun",
+    "definition": "sale, selling"
+  },
+  {
+    "rank": 771,
+    "word": "utställning",
+    "type": "noun",
+    "definition": "exhibition, show, display"
+  },
+  {
+    "rank": 772,
+    "word": "skäl",
+    "type": "noun",
+    "definition": "reason, cause, grounds"
+  },
+  {
+    "rank": 773,
+    "word": "hänga",
+    "type": "verb",
+    "definition": "to hang, be suspended / depend [on]"
+  },
+  {
+    "rank": 774,
+    "word": "ensam",
+    "type": "adjective",
+    "definition": "alone, lonely, single"
+  },
+  {
+    "rank": 775,
+    "word": "lugn",
+    "type": "adjective/noun",
+    "definition": "calm, quiet / calm, peace"
+  },
+  {
+    "rank": 776,
+    "word": "inleda",
+    "type": "verb",
+    "definition": "to initiate, begin, start, introduce"
+  },
+  {
+    "rank": 777,
+    "word": "förskola",
+    "type": "noun",
+    "definition": "preschool, kindergarten, nursery school"
+  },
+  {
+    "rank": 778,
+    "word": "natur",
+    "type": "noun",
+    "definition": "nature"
+  },
+  {
+    "rank": 779,
+    "word": "avstånd",
+    "type": "noun",
+    "definition": "distance"
+  },
+  {
+    "rank": 780,
+    "word": "hoppa",
+    "type": "verb",
+    "definition": "to jump, leap, skip"
+  },
+  {
+    "rank": 781,
+    "word": "Danmark",
+    "type": "proper noun",
+    "definition": "Denmark"
+  },
+  {
+    "rank": 782,
+    "word": "särskild",
+    "type": "adjective",
+    "definition": "special, particular, separate"
+  },
+  {
+    "rank": 783,
+    "word": "satsa",
+    "type": "verb",
+    "definition": "to invest, bet, focus on, back"
+  },
+  {
+    "rank": 784,
+    "word": "Tyskland",
+    "type": "proper noun",
+    "definition": "Germany"
+  },
+  {
+    "rank": 785,
+    "word": "skön",
+    "type": "adjective",
+    "definition": "beautiful, nice, pleasant, comfortable"
+  },
+  {
+    "rank": 786,
+    "word": "effektiv",
+    "type": "adjective",
+    "definition": "effective, efficient"
+  },
+  {
+    "rank": 787,
+    "word": "värd",
+    "type": "adjective/noun",
+    "definition": "worth, worthy / host, innkeeper, value"
+  },
+  {
+    "rank": 788,
+    "word": "vuxen",
+    "type": "adjective/noun",
+    "definition": "adult, grown-up"
+  },
+  {
+    "rank": 789,
+    "word": "märka",
+    "type": "verb",
+    "definition": "to notice, perceive, mark, label"
+  },
+  {
+    "rank": 790,
+    "word": "fysisk",
+    "type": "adjective",
+    "definition": "physical"
+  },
+  {
+    "rank": 791,
+    "word": "följd",
+    "type": "noun",
+    "definition": "consequence, result, sequence, series"
+  },
+  {
+    "rank": 792,
+    "word": "konsekvens",
+    "type": "noun",
+    "definition": "consequence"
+  },
+  {
+    "rank": 793,
+    "word": "läkare",
+    "type": "noun",
+    "definition": "doctor, physician"
+  },
+  {
+    "rank": 794,
+    "word": "Spanien",
+    "type": "proper noun",
+    "definition": "Spain"
+  },
+  {
+    "rank": 795,
+    "word": "historia",
+    "type": "noun",
+    "definition": "history, story"
+  },
+  {
+    "rank": 796,
+    "word": "imorgon",
+    "type": "adverb",
+    "definition": "tomorrow"
+  },
+  {
+    "rank": 797,
+    "word": "dels",
+    "type": "conjunction/adverb",
+    "definition": "partly, in part [often used as 'dels ... dels']"
+  },
+  {
+    "rank": 798,
+    "word": "ledare",
+    "type": "noun",
+    "definition": "leader, manager, conductor"
+  },
+  {
+    "rank": 799,
+    "word": "oro",
+    "type": "noun",
+    "definition": "worry, anxiety, unrest, concern"
+  },
+  {
+    "rank": 800,
+    "word": "styra",
+    "type": "verb",
+    "definition": "to steer, control, govern, rule"
+  },
+  {
+    "rank": 801,
+    "word": "pressmeddelande",
+    "type": "noun",
+    "definition": "press release"
+  },
+  {
+    "rank": 802,
+    "word": "publicera",
+    "type": "verb",
+    "definition": "to publish"
+  },
+  {
+    "rank": 803,
+    "word": "vänster",
+    "type": "noun/adjective",
+    "definition": "left [direction, politics]"
+  },
+  {
+    "rank": 804,
+    "word": "universitet",
+    "type": "noun",
+    "definition": "university"
+  },
+  {
+    "rank": 805,
+    "word": "sjukvård",
+    "type": "noun",
+    "definition": "healthcare, medical care"
+  },
+  {
+    "rank": 806,
+    "word": "dator",
+    "type": "noun",
+    "definition": "computer"
+  },
+  {
+    "rank": 807,
+    "word": "seger",
+    "type": "noun",
+    "definition": "victory"
+  },
+  {
+    "rank": 808,
+    "word": "dygn",
+    "type": "noun",
+    "definition": "day [24 hours]"
+  },
+  {
+    "rank": 809,
+    "word": "diskutera",
+    "type": "verb",
+    "definition": "to discuss"
+  },
+  {
+    "rank": 810,
+    "word": "uppmana",
+    "type": "verb",
+    "definition": "to urge, encourage, call upon"
+  },
+  {
+    "rank": 811,
+    "word": "sköta",
+    "type": "verb",
+    "definition": "to manage, take care of, handle"
+  },
+  {
+    "rank": 812,
+    "word": "missa",
+    "type": "verb",
+    "definition": "to miss [target, opportunity]"
+  },
+  {
+    "rank": 813,
+    "word": "förstås",
+    "type": "adverb",
+    "definition": "of course, naturally"
+  },
+  {
+    "rank": 814,
+    "word": "inträffa",
+    "type": "verb",
+    "definition": "to occur, happen, take place"
+  },
+  {
+    "rank": 815,
+    "word": "undra",
+    "type": "verb",
+    "definition": "to wonder"
+  },
+  {
+    "rank": 816,
+    "word": "kvalitet",
+    "type": "noun",
+    "definition": "quality"
+  },
+  {
+    "rank": 817,
+    "word": "nio",
+    "type": "numeral",
+    "definition": "nine"
+  },
+  {
+    "rank": 818,
+    "word": "topp",
+    "type": "noun",
+    "definition": "top, peak, summit"
+  },
+  {
+    "rank": 819,
+    "word": "tung",
+    "type": "adjective",
+    "definition": "heavy, difficult"
+  },
+  {
+    "rank": 820,
+    "word": "undersökning",
+    "type": "noun",
+    "definition": "investigation, examination, survey, study"
+  },
+  {
+    "rank": 821,
+    "word": "band",
+    "type": "noun",
+    "definition": "band [music], ribbon, tape, bond, tie"
+  },
+  {
+    "rank": 822,
+    "word": "nödvändig",
+    "type": "adjective",
+    "definition": "necessary, essential"
+  },
+  {
+    "rank": 823,
+    "word": "värde",
+    "type": "noun",
+    "definition": "value, worth"
+  },
+  {
+    "rank": 824,
+    "word": "vare",
+    "type": "conjunction/verb",
+    "definition": "whether [archaic 'vare sig'], be [subjunctive]"
+  },
+  {
+    "rank": 825,
+    "word": "agera",
+    "type": "verb",
+    "definition": "to act, take action"
+  },
+  {
+    "rank": 826,
+    "word": "bit",
+    "type": "noun",
+    "definition": "bit, piece"
+  },
+  {
+    "rank": 827,
+    "word": "unik",
+    "type": "adjective",
+    "definition": "unique"
+  },
+  {
+    "rank": 828,
+    "word": "våga",
+    "type": "verb",
+    "definition": "to dare"
+  },
+  {
+    "rank": 829,
+    "word": "placera",
+    "type": "verb",
+    "definition": "to place, position, invest"
+  },
+  {
+    "rank": 830,
+    "word": "Gud",
+    "type": "proper noun",
+    "definition": "God"
+  },
+  {
+    "rank": 831,
+    "word": "upptäcka",
+    "type": "verb",
+    "definition": "to discover, detect"
+  },
+  {
+    "rank": 832,
+    "word": "dörr",
+    "type": "noun",
+    "definition": "door"
+  },
+  {
+    "rank": 833,
+    "word": "behandling",
+    "type": "noun",
+    "definition": "treatment, handling, processing"
+  },
+  {
+    "rank": 834,
+    "word": "Lund",
+    "type": "proper noun",
+    "definition": "Lund [city]"
+  },
+  {
+    "rank": 835,
+    "word": "ägare",
+    "type": "noun",
+    "definition": "owner"
+  },
+  {
+    "rank": 836,
+    "word": "byggnad",
+    "type": "noun",
+    "definition": "building"
+  },
+  {
+    "rank": 837,
+    "word": "kör",
+    "type": "verb/noun",
+    "definition": "drive/run [present/imperative] / choir"
+  },
+  {
+    "rank": 838,
+    "word": "vinst",
+    "type": "noun",
+    "definition": "profit, gain, win"
+  },
+  {
+    "rank": 839,
+    "word": "hjärta",
+    "type": "noun",
+    "definition": "heart"
+  },
+  {
+    "rank": 840,
+    "word": "hållbar",
+    "type": "adjective",
+    "definition": "sustainable, durable, tenable"
+  },
+  {
+    "rank": 841,
+    "word": "senast",
+    "type": "adverb/adjective",
+    "definition": "latest, last, at the latest"
+  },
+  {
+    "rank": 842,
+    "word": "sänka",
+    "type": "verb",
+    "definition": "to lower, reduce, sink"
+  },
+  {
+    "rank": 843,
+    "word": "enbart",
+    "type": "adverb",
+    "definition": "only, solely, merely"
+  },
+  {
+    "rank": 844,
+    "word": "Uppsala",
+    "type": "proper noun",
+    "definition": "Uppsala [city]"
+  },
+  {
+    "rank": 845,
+    "word": "kläder",
+    "type": "noun",
+    "definition": "clothes, clothing"
+  },
+  {
+    "rank": 846,
+    "word": "någonsin",
+    "type": "adverb",
+    "definition": "ever"
+  },
+  {
+    "rank": 847,
+    "word": "lyfta",
+    "type": "verb",
+    "definition": "to lift, raise"
+  },
+  {
+    "rank": 848,
+    "word": "bryta",
+    "type": "verb",
+    "definition": "to break, violate, mine"
+  },
+  {
+    "rank": 849,
+    "word": "Nilsson",
+    "type": "proper noun",
+    "definition": "Nilsson [surname]"
+  },
+  {
+    "rank": 850,
+    "word": "populär",
+    "type": "adjective",
+    "definition": "popular"
+  },
+  {
+    "rank": 851,
+    "word": "teknisk",
+    "type": "adjective",
+    "definition": "technical"
+  },
+  {
+    "rank": 852,
+    "word": "naturlig",
+    "type": "adjective",
+    "definition": "natural"
+  },
+  {
+    "rank": 853,
+    "word": "fastighet",
+    "type": "noun",
+    "definition": "property, real estate, building"
+  },
+  {
+    "rank": 854,
+    "word": "billig",
+    "type": "adjective",
+    "definition": "cheap, inexpensive"
+  },
+  {
+    "rank": 855,
+    "word": "numera",
+    "type": "adverb",
+    "definition": "nowadays, currently"
+  },
+  {
+    "rank": 856,
+    "word": "befinna",
+    "type": "verb",
+    "definition": "to be [located], find oneself"
+  },
+  {
+    "rank": 857,
+    "word": "sträcka",
+    "type": "noun/verb",
+    "definition": "distance, stretch / to stretch"
+  },
+  {
+    "rank": 858,
+    "word": "uppstå",
+    "type": "verb",
+    "definition": "to arise, occur, originate"
+  },
+  {
+    "rank": 859,
+    "word": "bedöma",
+    "type": "verb",
+    "definition": "to judge, assess, evaluate"
+  },
+  {
+    "rank": 860,
+    "word": "artikel",
+    "type": "noun",
+    "definition": "article [text, item]"
+  },
+  {
+    "rank": 861,
+    "word": "utgöra",
+    "type": "verb",
+    "definition": "to constitute, make up, form"
+  },
+  {
+    "rank": 862,
+    "word": "omfattande",
+    "type": "adjective",
+    "definition": "comprehensive, extensive, wide-ranging"
+  },
+  {
+    "rank": 863,
+    "word": "kärlek",
+    "type": "noun",
+    "definition": "love"
+  },
+  {
+    "rank": 864,
+    "word": "vardag",
+    "type": "noun",
+    "definition": "weekday, everyday life"
+  },
+  {
+    "rank": 865,
+    "word": "falla",
+    "type": "verb",
+    "definition": "to fall, drop"
+  },
+  {
+    "rank": 866,
+    "word": "ämne",
+    "type": "noun",
+    "definition": "subject, topic, substance, material"
+  },
+  {
+    "rank": 867,
+    "word": "kök",
+    "type": "noun",
+    "definition": "kitchen"
+  },
+  {
+    "rank": 868,
+    "word": "klassisk",
+    "type": "adjective",
+    "definition": "classic, classical"
+  },
+  {
+    "rank": 869,
+    "word": "Finland",
+    "type": "proper noun",
+    "definition": "Finland"
+  },
+  {
+    "rank": 870,
+    "word": "tal",
+    "type": "noun",
+    "definition": "speech, number, figure, talk"
+  },
+  {
+    "rank": 871,
+    "word": "södra",
+    "type": "adjective",
+    "definition": "southern, south"
+  },
+  {
+    "rank": 872,
+    "word": "förhållande",
+    "type": "noun",
+    "definition": "relationship, condition, ratio, circumstances"
+  },
+  {
+    "rank": 873,
+    "word": "Erik",
+    "type": "proper noun",
+    "definition": "Erik [name]"
+  },
+  {
+    "rank": 874,
+    "word": "funktion",
+    "type": "noun",
+    "definition": "function"
+  },
+  {
+    "rank": 875,
+    "word": "nyligen",
+    "type": "adverb",
+    "definition": "recently, lately"
+  },
+  {
+    "rank": 876,
+    "word": "peka",
+    "type": "verb",
+    "definition": "to point, indicate"
+  },
+  {
+    "rank": 877,
+    "word": "hav",
+    "type": "noun",
+    "definition": "sea, ocean"
+  },
+  {
+    "rank": 878,
+    "word": "båt",
+    "type": "noun",
+    "definition": "boat"
+  },
+  {
+    "rank": 879,
+    "word": "spara",
+    "type": "verb",
+    "definition": "to save [money, file], keep"
+  },
+  {
+    "rank": 880,
+    "word": "föreslå",
+    "type": "verb",
+    "definition": "to propose, suggest"
+  },
+  {
+    "rank": 881,
+    "word": "rekommendation",
+    "type": "noun",
+    "definition": "recommendation"
+  },
+  {
+    "rank": 882,
+    "word": "vinter",
+    "type": "noun",
+    "definition": "winter"
+  },
+  {
+    "rank": 883,
+    "word": "bransch",
+    "type": "noun",
+    "definition": "industry, sector, branch [of business]"
+  },
+  {
+    "rank": 884,
+    "word": "behandla",
+    "type": "verb",
+    "definition": "to treat, handle, process, deal with"
+  },
+  {
+    "rank": 885,
+    "word": "köp",
+    "type": "noun",
+    "definition": "purchase, buy"
+  },
+  {
+    "rank": 886,
+    "word": "fundera",
+    "type": "verb",
+    "definition": "to ponder, reflect, think, wonder"
+  },
+  {
+    "rank": 887,
+    "word": "tjej",
+    "type": "noun",
+    "definition": "girl, girlfriend [colloquial]"
+  },
+  {
+    "rank": 888,
+    "word": "studie",
+    "type": "noun",
+    "definition": "study"
+  },
+  {
+    "rank": 889,
+    "word": "dyr",
+    "type": "adjective",
+    "definition": "expensive"
+  },
+  {
+    "rank": 890,
+    "word": "nät",
+    "type": "noun",
+    "definition": "net, network"
+  },
+  {
+    "rank": 891,
+    "word": "gäst",
+    "type": "noun",
+    "definition": "guest, visitor"
+  },
+  {
+    "rank": 892,
+    "word": "reda",
+    "type": "verb/noun",
+    "definition": "to sort out, prepare / order, clarity"
+  },
+  {
+    "rank": 893,
+    "word": "anpassa",
+    "type": "verb",
+    "definition": "to adapt, adjust, customize"
+  },
+  {
+    "rank": 894,
+    "word": "Frankrike",
+    "type": "proper noun",
+    "definition": "France"
+  },
+  {
+    "rank": 895,
+    "word": "ekonomi",
+    "type": "noun",
+    "definition": "economy, finance"
+  },
+  {
+    "rank": 896,
+    "word": "enorm",
+    "type": "adjective",
+    "definition": "enormous, huge, vast"
+  },
+  {
+    "rank": 897,
+    "word": "forskning",
+    "type": "noun",
+    "definition": "research"
+  },
+  {
+    "rank": 898,
+    "word": "bakgrund",
+    "type": "noun",
+    "definition": "background"
+  },
+  {
+    "rank": 899,
+    "word": "idé",
+    "type": "noun",
+    "definition": "idea"
+  },
+  {
+    "rank": 900,
+    "word": "fart",
+    "type": "noun",
+    "definition": "speed, momentum"
+  },
+  {
+    "rank": 901,
+    "word": "fotboll",
+    "type": "noun",
+    "definition": "football, soccer"
+  },
+  {
+    "rank": 902,
+    "word": "tillhöra",
+    "type": "verb",
+    "definition": "to belong to"
+  },
+  {
+    "rank": 903,
+    "word": "utmaning",
+    "type": "noun",
+    "definition": "challenge"
+  },
+  {
+    "rank": 904,
+    "word": "säkerhet",
+    "type": "noun",
+    "definition": "security, safety, certainty"
+  },
+  {
+    "rank": 905,
+    "word": "vikt",
+    "type": "noun",
+    "definition": "weight, importance"
+  },
+  {
+    "rank": 906,
+    "word": "student",
+    "type": "noun",
+    "definition": "student [university level], graduate [high school]"
+  },
+  {
+    "rank": 907,
+    "word": "avgöra",
+    "type": "verb",
+    "definition": "to decide, determine, settle"
+  },
+  {
+    "rank": 908,
+    "word": "promenad",
+    "type": "noun",
+    "definition": "walk, stroll"
+  },
+  {
+    "rank": 909,
+    "word": "nedan",
+    "type": "adverb",
+    "definition": "below, underneath"
+  },
+  {
+    "rank": 910,
+    "word": "energi",
+    "type": "noun",
+    "definition": "energy"
+  },
+  {
+    "rank": 911,
+    "word": "debatt",
+    "type": "noun",
+    "definition": "debate"
+  },
+  {
+    "rank": 912,
+    "word": "tysk",
+    "type": "adjective",
+    "definition": "German"
+  },
+  {
+    "rank": 913,
+    "word": "jul",
+    "type": "noun",
+    "definition": "Christmas"
+  },
+  {
+    "rank": 914,
+    "word": "deltagare",
+    "type": "noun",
+    "definition": "participant"
+  },
+  {
+    "rank": 915,
+    "word": "centrum",
+    "type": "noun",
+    "definition": "center, downtown"
+  },
+  {
+    "rank": 916,
+    "word": "statlig",
+    "type": "adjective",
+    "definition": "state-owned, governmental, public"
+  },
+  {
+    "rank": 917,
+    "word": "bilda",
+    "type": "verb",
+    "definition": "to form, create, educate"
+  },
+  {
+    "rank": 918,
+    "word": "modern",
+    "type": "adjective",
+    "definition": "modern"
+  },
+  {
+    "rank": 919,
+    "word": "hit",
+    "type": "adverb",
+    "definition": "here, hither [direction]"
+  },
+  {
+    "rank": 920,
+    "word": "Maria",
+    "type": "proper noun",
+    "definition": "Maria, Mary [name]"
+  },
+  {
+    "rank": 921,
+    "word": "nyhet",
+    "type": "noun",
+    "definition": "news, novelty"
+  },
+  {
+    "rank": 922,
+    "word": "bana",
+    "type": "noun",
+    "definition": "path, track, lane, course, orbit"
+  },
+  {
+    "rank": 923,
+    "word": "röd",
+    "type": "adjective",
+    "definition": "red"
+  },
+  {
+    "rank": 924,
+    "word": "jord",
+    "type": "noun",
+    "definition": "earth, soil, ground"
+  },
+  {
+    "rank": 925,
+    "word": "tävla",
+    "type": "verb",
+    "definition": "to compete"
+  },
+  {
+    "rank": 926,
+    "word": "å",
+    "type": "preposition",
+    "definition": "on, at [archaic/dialectal]"
+  },
+  {
+    "rank": 927,
+    "word": "rekommendera",
+    "type": "verb",
+    "definition": "to recommend"
+  },
+  {
+    "rank": 928,
+    "word": "katt",
+    "type": "noun",
+    "definition": "cat"
+  },
+  {
+    "rank": 929,
+    "word": "trafik",
+    "type": "noun",
+    "definition": "traffic"
+  },
+  {
+    "rank": 930,
+    "word": "lopp",
+    "type": "noun",
+    "definition": "race, run / flea"
+  },
+  {
+    "rank": 931,
+    "word": "resurs",
+    "type": "noun",
+    "definition": "resource"
+  },
+  {
+    "rank": 932,
+    "word": "design",
+    "type": "noun",
+    "definition": "design"
+  },
+  {
+    "rank": 933,
+    "word": "ange",
+    "type": "verb",
+    "definition": "to state, indicate, specify, report [to police]"
+  },
+  {
+    "rank": 934,
+    "word": "flicka",
+    "type": "noun",
+    "definition": "girl"
+  },
+  {
+    "rank": 935,
+    "word": "fixa",
+    "type": "verb",
+    "definition": "to fix, arrange, sort out [colloquial]"
+  },
+  {
+    "rank": 936,
+    "word": "dotter",
+    "type": "noun",
+    "definition": "daughter"
+  },
+  {
+    "rank": 937,
+    "word": "verklighet",
+    "type": "noun",
+    "definition": "reality"
+  },
+  {
+    "rank": 938,
+    "word": "naturligtvis",
+    "type": "adverb",
+    "definition": "of course, naturally"
+  },
+  {
+    "rank": 939,
+    "word": "ingenting",
+    "type": "pronoun",
+    "definition": "nothing"
+  },
+  {
+    "rank": 940,
+    "word": "avgörande",
+    "type": "adjective",
+    "definition": "decisive, crucial, determining"
+  },
+  {
+    "rank": 941,
+    "word": "produktion",
+    "type": "noun",
+    "definition": "production"
+  },
+  {
+    "rank": 942,
+    "word": "kallad",
+    "type": "adjective",
+    "definition": "called, named"
+  },
+  {
+    "rank": 943,
+    "word": "makt",
+    "type": "noun",
+    "definition": "power, might"
+  },
+  {
+    "rank": 944,
+    "word": "minnas",
+    "type": "verb",
+    "definition": "to remember, recall"
+  },
+  {
+    "rank": 945,
+    "word": "hot",
+    "type": "noun",
+    "definition": "threat"
+  },
+  {
+    "rank": 946,
+    "word": "process",
+    "type": "noun",
+    "definition": "process"
+  },
+  {
+    "rank": 947,
+    "word": "nämna",
+    "type": "verb",
+    "definition": "to mention, name"
+  },
+  {
+    "rank": 948,
+    "word": "ben",
+    "type": "noun",
+    "definition": "leg, bone"
+  },
+  {
+    "rank": 949,
+    "word": "orsaka",
+    "type": "verb",
+    "definition": "to cause"
+  },
+  {
+    "rank": 950,
+    "word": "gata",
+    "type": "noun",
+    "definition": "street"
+  },
+  {
+    "rank": 951,
+    "word": "boll",
+    "type": "noun",
+    "definition": "ball"
+  },
+  {
+    "rank": 952,
+    "word": "förvänta",
+    "type": "verb",
+    "definition": "to expect, anticipate"
+  },
+  {
+    "rank": 953,
+    "word": "olycka",
+    "type": "noun",
+    "definition": "accident, misfortune, unhappiness"
+  },
+  {
+    "rank": 954,
+    "word": "verk",
+    "type": "noun",
+    "definition": "work [artistic, literary], plant [factory], agency"
+  },
+  {
+    "rank": 955,
+    "word": "plötslig",
+    "type": "adjective",
+    "definition": "sudden"
+  },
+  {
+    "rank": 956,
+    "word": "historisk",
+    "type": "adjective",
+    "definition": "historic, historical"
+  },
+  {
+    "rank": 957,
+    "word": "faktum",
+    "type": "noun",
+    "definition": "fact"
+  },
+  {
+    "rank": 958,
+    "word": "förmåga",
+    "type": "noun",
+    "definition": "ability, capacity, capability"
+  },
+  {
+    "rank": 959,
+    "word": "trygg",
+    "type": "adjective",
+    "definition": "safe, secure, confident"
+  },
+  {
+    "rank": 960,
+    "word": "lön",
+    "type": "noun",
+    "definition": "salary, wage, pay"
+  },
+  {
+    "rank": 961,
+    "word": "skatt",
+    "type": "noun",
+    "definition": "tax / treasure"
+  },
+  {
+    "rank": 962,
+    "word": "hyra",
+    "type": "verb/noun",
+    "definition": "to rent, hire / rent [payment]"
+  },
+  {
+    "rank": 963,
+    "word": "lunch",
+    "type": "noun",
+    "definition": "lunch"
+  },
+  {
+    "rank": 964,
+    "word": "höger",
+    "type": "noun/adjective",
+    "definition": "right [direction, politics]"
+  },
+  {
+    "rank": 965,
+    "word": "Fredrik",
+    "type": "proper noun",
+    "definition": "Fredrik [name]"
+  },
+  {
+    "rank": 966,
+    "word": "pass",
+    "type": "noun",
+    "definition": "passport / pass, session, shift"
+  },
+  {
+    "rank": 967,
+    "word": "Per",
+    "type": "proper noun",
+    "definition": "Per [name]"
+  },
+  {
+    "rank": 968,
+    "word": "tåg",
+    "type": "noun",
+    "definition": "train / procession"
+  },
+  {
+    "rank": 969,
+    "word": "fördel",
+    "type": "noun",
+    "definition": "advantage, benefit"
+  },
+  {
+    "rank": 970,
+    "word": "säng",
+    "type": "noun",
+    "definition": "bed"
+  },
+  {
+    "rank": 971,
+    "word": "motsvarande",
+    "type": "adjective",
+    "definition": "corresponding, equivalent"
+  },
+  {
+    "rank": 972,
+    "word": "mörk",
+    "type": "adjective",
+    "definition": "dark"
+  },
+  {
+    "rank": 973,
+    "word": "telefon",
+    "type": "noun",
+    "definition": "telephone"
+  },
+  {
+    "rank": 974,
+    "word": "princip",
+    "type": "noun",
+    "definition": "principle"
+  },
+  {
+    "rank": 975,
+    "word": "trött",
+    "type": "adjective",
+    "definition": "tired, weary"
+  },
+  {
+    "rank": 976,
+    "word": "kommunal",
+    "type": "adjective",
+    "definition": "municipal"
+  },
+  {
+    "rank": 977,
+    "word": "va",
+    "type": "interjection/contraction",
+    "definition": "what?, huh? [contraction of vad]"
+  },
+  {
+    "rank": 978,
+    "word": "ikväll",
+    "type": "adverb",
+    "definition": "tonight, this evening"
+  },
+  {
+    "rank": 979,
+    "word": "kontrollera",
+    "type": "verb",
+    "definition": "to control, check, verify"
+  },
+  {
+    "rank": 980,
+    "word": "nuvarande",
+    "type": "adjective",
+    "definition": "current, present"
+  },
+  {
+    "rank": 981,
+    "word": "Kalmar",
+    "type": "proper noun",
+    "definition": "Kalmar [city]"
+  },
+  {
+    "rank": 982,
+    "word": "bidrag",
+    "type": "noun",
+    "definition": "contribution, grant, allowance, benefit"
+  },
+  {
+    "rank": 983,
+    "word": "plocka",
+    "type": "verb",
+    "definition": "to pick [flowers, berries], pluck, tidy up"
+  },
+  {
+    "rank": 984,
+    "word": "medarbetare",
+    "type": "noun",
+    "definition": "coworker, colleague, employee"
+  },
+  {
+    "rank": 985,
+    "word": "lista",
+    "type": "noun/verb",
+    "definition": "list / to list"
+  },
+  {
+    "rank": 986,
+    "word": "åter",
+    "type": "adverb",
+    "definition": "again, back, remaining"
+  },
+  {
+    "rank": 987,
+    "word": "tillfällig",
+    "type": "adjective",
+    "definition": "temporary, occasional"
+  },
+  {
+    "rank": 988,
+    "word": "synas",
+    "type": "verb",
+    "definition": "to be visible, appear, seem"
+  },
+  {
+    "rank": 989,
+    "word": "frisk",
+    "type": "adjective",
+    "definition": "healthy, well, fresh"
+  },
+  {
+    "rank": 990,
+    "word": "mjuk",
+    "type": "adjective",
+    "definition": "soft"
+  },
+  {
+    "rank": 991,
+    "word": "tillgänglig",
+    "type": "adjective",
+    "definition": "available, accessible"
+  },
+  {
+    "rank": 992,
+    "word": "allmänhet",
+    "type": "noun",
+    "definition": "public, general public"
+  },
+  {
+    "rank": 993,
+    "word": "innehåll",
+    "type": "noun",
+    "definition": "content, contents"
+  },
+  {
+    "rank": 994,
+    "word": "norsk",
+    "type": "adjective",
+    "definition": "Norwegian"
+  },
+  {
+    "rank": 995,
+    "word": "äntligen",
+    "type": "adverb",
+    "definition": "finally, at last"
+  },
+  {
+    "rank": 996,
+    "word": "befolkning",
+    "type": "noun",
+    "definition": "population"
+  },
+  {
+    "rank": 997,
+    "word": "upplevelse",
+    "type": "noun",
+    "definition": "experience"
+  },
+  {
+    "rank": 998,
+    "word": "längs",
+    "type": "preposition",
+    "definition": "along"
+  },
+  {
+    "rank": 999,
+    "word": "låt",
+    "type": "noun",
+    "definition": "a song"
+  },
+  {
+    "rank": 1000,
+    "word": "förlust",
+    "type": "noun",
+    "definition": "a loss"
+  }
+]
